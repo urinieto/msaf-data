@@ -850,10 +850,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Promiscuous", 
+    "identifiers": {
+        "musicbrainz": "18a6f622-fb42-42b4-82cc-3f8dd428547f"
+    }, 
+    "release": "Loose", 
     "duration": 161.85469387755103, 
-    "artist": ""
+    "artist": "Nelly Furtado"
   }
 }

@@ -1282,10 +1282,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Under Pressure", 
+    "identifiers": {
+        "musicbrainz": "32c7e292-14f1-4080-bddf-ef852e0a4c59"
+    }, 
+    "release": "Hot Space", 
     "duration": 236.8261224489796, 
-    "artist": ""
+    "artist": "Queen; David Bowie"
   }
 }

@@ -2074,10 +2074,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Like a Rolling Stone", 
+    "identifiers": {
+        "musicbrainz": "0e380207-f211-47b9-a706-0126abca118f"
+    }, 
+    "release": "The Bootleg Series, Volume 4: Live 1966: The \"Royal Albert Hall\" Concert", 
     "duration": 482.01142857142855, 
-    "artist": ""
+    "artist": "Bob Dylan"
   }
 }

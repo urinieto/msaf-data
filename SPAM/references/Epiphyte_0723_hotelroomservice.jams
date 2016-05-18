@@ -1108,10 +1108,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Hotel Room Service", 
+    "identifiers": {
+        "musicbrainz": "f607af6d-b127-4293-8e2a-e2968ceb0f64"
+    }, 
+    "release": "Rebelution", 
     "duration": 237.29632653061225, 
-    "artist": ""
+    "artist": "Pitbull"
   }
 }

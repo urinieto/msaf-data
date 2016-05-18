@@ -1228,10 +1228,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Adoracion", 
+    "identifiers": {
+        "musicbrainz": "dbc7c761-b9f2-45a1-996e-35ffcb9d0921"
+    }, 
+    "release": "Gold 1973 - 1976", 
     "duration": 341.86448979591836, 
-    "artist": ""
+    "artist": "Eddie Palmieri"
   }
 }

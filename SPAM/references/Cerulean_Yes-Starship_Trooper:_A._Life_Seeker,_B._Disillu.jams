@@ -2026,10 +2026,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Starship Trooper: a. Life Seeker b. Disillusion c. Würm", 
+    "identifiers": {
+        "musicbrainz": "2f3927ac-9f98-4e7c-9b87-b2ac52715d09"
+    }, 
+    "release": "The Yes Album", 
     "duration": 569.2865306122449, 
-    "artist": ""
+    "artist": "Yes"
   }
 }

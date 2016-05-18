@@ -946,10 +946,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Let Me Be Real", 
+    "identifiers": {
+        "musicbrainz": "5f1a14f2-81ed-4e42-a184-ebb9077eebf4"
+    }, 
+    "release": "Ultra Dance 11", 
     "duration": 182.90938775510205, 
-    "artist": ""
+    "artist": "Fedde Le Grand"
   }
 }

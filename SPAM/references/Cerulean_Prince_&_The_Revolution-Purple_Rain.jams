@@ -1312,10 +1312,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Purple Rain", 
+    "identifiers": {
+        "musicbrainz": "85a752f8-cbad-42e6-8828-bd81318e3c7d"
+    }, 
+    "release": "Purple Rain", 
     "duration": 522.4228571428572, 
-    "artist": ""
+    "artist": "Prince and The Revolution"
   }
 }

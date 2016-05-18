@@ -1690,10 +1690,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Footprints", 
+    "identifiers": {
+        "musicbrainz": "11c48cdc-46d9-4764-85c0-a5ec6d4fc022"
+    }, 
+    "release": "Miles Smiles", 
     "duration": 586.0832653061225, 
-    "artist": ""
+    "artist": "Miles Davis Quintet"
   }
 }

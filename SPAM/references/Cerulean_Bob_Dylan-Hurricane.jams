@@ -3094,10 +3094,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Hurricane", 
+    "identifiers": {
+        "musicbrainz": "236c2e74-c88d-4633-9f57-4035d77f0d8c"
+    }, 
+    "release": "The Bootleg Series, Volume 5: Live 1975: The Rolling Thunder Revue", 
     "duration": 495.49061224489793, 
-    "artist": ""
+    "artist": "Bob Dylan"
   }
 }

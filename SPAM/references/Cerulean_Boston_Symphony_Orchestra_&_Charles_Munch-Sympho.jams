@@ -1690,10 +1690,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Symphony no. 5 in C minor, op. 67 \"Fate\": I. Allegro con brio", 
+    "identifiers": {
+        "musicbrainz": "92d40704-fefc-47f1-b139-f4e41576c60e"
+    }, 
+    "release": "Beethoven: Symphony no. 5 / Leonore Overture no. 3 / Schubert: Symphony no. 8 \"Unfinished\"", 
     "duration": 364.95673469387754, 
-    "artist": ""
+    "artist": "Beethoven, Schubert; Boston Symphony Orchestra, Charles Munch"
   }
 }

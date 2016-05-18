@@ -1078,10 +1078,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "The Show Must Go On", 
+    "identifiers": {
+        "musicbrainz": "5bdb99b2-b7cc-4aa3-bb4f-4102485ff853"
+    }, 
+    "release": "Innuendo", 
     "duration": 263.7061224489796, 
-    "artist": ""
+    "artist": "Queen"
   }
 }

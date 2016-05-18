@@ -1204,10 +1204,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Concerto for Piano and Orchestra no. 5 in E-flat major, op. 73 \"Emperor\": II. Adagio un poco moto", 
+    "identifiers": {
+        "musicbrainz": "195c5bb3-78e0-4dfe-91d5-0172ee259c4b"
+    }, 
+    "release": "The Royal Edition, Volume 9: Piano Concertos no. 3 & no. 5 \"Emperor\"", 
     "duration": 525.3746938775511, 
-    "artist": ""
+    "artist": "Beethoven; New York Philharmonic, Leonard Bernstein, Rudolf Serkin"
   }
 }
