@@ -1414,10 +1414,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Somebody To Love", 
+    "identifiers": {
+        "musicbrainz": "3b286fbf-0dc9-45b8-bf4a-5036ac72526d"
+    }, 
+    "release": "A Day at the Races", 
     "duration": 297.71755102040817, 
-    "artist": ""
+    "artist": "Queen"
   }
 }

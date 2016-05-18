@@ -1222,10 +1222,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Don't Pass Me By", 
+    "identifiers": {
+        "musicbrainz": "744d7528-025d-4bb4-8907-f01ae87f7327"
+    }, 
+    "release": "The Beatles", 
     "duration": 230.60897959183674, 
-    "artist": ""
+    "artist": "The Beatles"
   }
 }

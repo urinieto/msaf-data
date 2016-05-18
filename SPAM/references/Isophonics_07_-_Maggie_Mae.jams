@@ -544,10 +544,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Maggie Mae", 
+    "identifiers": {
+        "musicbrainz": "a1ec0138-7f87-4422-a9af-7e66afddf6fd"
+    }, 
+    "release": "As Nature Intended", 
     "duration": 40.80326530612245, 
-    "artist": ""
+    "artist": "The Beatles"
   }
 }

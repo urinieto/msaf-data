@@ -928,10 +928,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "You Never Give Me Your Money", 
+    "identifiers": {
+        "musicbrainz": "474546e9-0b30-4881-9269-c6c1c8bbf07b"
+    }, 
+    "release": "Abbey Road", 
     "duration": 242.5730612244898, 
-    "artist": ""
+    "artist": "The Beatles"
   }
 }

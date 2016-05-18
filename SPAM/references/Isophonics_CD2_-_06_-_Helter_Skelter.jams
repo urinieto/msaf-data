@@ -1204,10 +1204,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Helter Skelter", 
+    "identifiers": {
+        "musicbrainz": "744d7528-025d-4bb4-8907-f01ae87f7327"
+    }, 
+    "release": "The Beatles", 
     "duration": 269.8448979591837, 
-    "artist": ""
+    "artist": "The Beatles"
   }
 }
