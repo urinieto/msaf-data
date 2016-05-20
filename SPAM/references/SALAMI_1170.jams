@@ -1390,10 +1390,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Freight Train", 
+    "identifiers": {
+        "internetarchive_URL": "http://www.archive.org/download/hpr2010-01-22/hpr2010-01-22d1t01_vbr.mp3"
+    }, 
+    "release": "Live at Market Cross Pub on 2010-01-22", 
     "duration": 399.28163265306125, 
-    "artist": ""
+    "artist": "Husky Pants and the Rail"
   }
 }

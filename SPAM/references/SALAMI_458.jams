@@ -988,10 +988,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Summertime", 
+    "identifiers": {
+        "musicbrainz": "ae61e2a9-706d-4df8-9559-d625a8e4c179"
+    }, 
+    "release": "The Best of Sidney Bechet", 
     "duration": 254.19755102040816, 
-    "artist": ""
+    "artist": "Sidney Bechet"
   }
 }

@@ -886,10 +886,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Mercy", 
+    "identifiers": {
+        "musicbrainz": "64819d41-172b-4e93-a27f-39ac971ec4f9"
+    }, 
+    "release": "Solace", 
     "duration": 262.3216326530612, 
-    "artist": ""
+    "artist": "Sarah Mclachlan"
   }
 }

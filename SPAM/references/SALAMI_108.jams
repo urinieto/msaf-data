@@ -1048,10 +1048,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Tombeau pour Mr de Sainte Colombe", 
+    "identifiers": {
+        "musicbrainz": "7095c7d6-6419-4067-bace-cac5d513eea8"
+    }, 
+    "release": "Tous les matins du monde", 
     "duration": 431.9608163265306, 
-    "artist": ""
+    "artist": "Jordi Savall"
   }
 }

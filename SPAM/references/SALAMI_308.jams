@@ -1192,10 +1192,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "The Wind", 
+    "identifiers": {
+        "musicbrainz": "31c00f0f-027f-4830-b89d-afb9b9b7e011"
+    }, 
+    "release": "Key Principles", 
     "duration": 282.67102040816326, 
-    "artist": ""
+    "artist": "Nathan"
   }
 }

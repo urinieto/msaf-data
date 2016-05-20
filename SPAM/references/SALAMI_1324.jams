@@ -1522,10 +1522,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "rumpkemb032808set2t02flac", 
+    "identifiers": {
+        "internetarchive_URL": "http://www.archive.org/download/rumpkemb2008-03-28/rumpkemb032808set2t02_vbr.mp3"
+    }, 
+    "release": "Live at Japers on 2008-03-28", 
     "duration": 373.4465306122449, 
-    "artist": ""
+    "artist": "Rumpke Mountain Boys"
   }
 }

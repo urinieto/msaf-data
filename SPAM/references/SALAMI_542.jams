@@ -1132,10 +1132,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Modern Love", 
+    "identifiers": {
+        "musicbrainz": "e06c0ddc-6a85-4be3-9cde-1e8c34eda834"
+    }, 
+    "release": "Wire Waltz", 
     "duration": 266.60571428571427, 
-    "artist": ""
+    "artist": "The Last Town Chorus"
   }
 }

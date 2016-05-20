@@ -1234,10 +1234,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Night Light", 
+    "identifiers": {
+        "internetarchive_URL": "http://www.archive.org/download/zindu2005-02-26.flac/zindu2005-02-26t05_vbr.mp3"
+    }, 
+    "release": "Live at Winston's on 2005-02-26", 
     "duration": 574.6416326530613, 
-    "artist": ""
+    "artist": "Zindu"
   }
 }

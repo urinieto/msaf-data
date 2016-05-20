@@ -814,10 +814,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Cavalleria Rusticana-Intermezzo", 
+    "identifiers": {
+        "musicbrainz": "5f0416a1-9fe3-4ca6-b7f3-8f4c3b732f6a"
+    }, 
+    "release": "Mascagni: Caballeria rusticana - Leoncaballo: Pegliacci", 
     "duration": 240.065306122449, 
-    "artist": ""
+    "artist": "Tulio Serafin"
   }
 }

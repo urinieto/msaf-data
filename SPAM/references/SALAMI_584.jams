@@ -904,10 +904,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Over the Rainbow", 
+    "identifiers": {
+        "musicbrainz": "7d177a6b-b4c1-4627-a3b1-87eaf2be8971"
+    }, 
+    "release": "Roots Revisited", 
     "duration": 256.0261224489796, 
-    "artist": ""
+    "artist": "Maceo Parker"
   }
 }

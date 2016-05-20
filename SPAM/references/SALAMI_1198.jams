@@ -1348,10 +1348,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "jonscales20090423t03flac", 
+    "identifiers": {
+        "internetarchive_URL": "http://www.archive.org/download/jonscales2009-04-23.flacf16/jonscales2009-04-23t03_vbr.mp3"
+    }, 
+    "release": "Live at Double Door Inn on 2009-04-23", 
     "duration": 550.2955102040817, 
-    "artist": ""
+    "artist": "Jonathan Scales Fourchestra"
   }
 }

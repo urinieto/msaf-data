@@ -2128,10 +2128,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Cowgirl", 
+    "identifiers": {
+        "internetarchive_url": "http://www.archive.org/download/DannOttemiller2008-04-25.AKG483/dwo2008-04-25_AKG483tr02_vbr.mp3"
+    }, 
+    "release": "Live at ABC on 2008-04-25", 
     "duration": 444.57795918367344, 
-    "artist": ""
+    "artist": "Cowgirl"
   }
 }

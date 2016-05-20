@@ -1336,10 +1336,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Fantasia cromatica in D minor, BWV 903 (arr. Zoltan Kodaly)", 
+    "identifiers": {
+        "musicbrainz": "b4466eda-3412-4e99-ac83-e76ef63e367e"
+    }, 
+    "release": "Viola Bouquet", 
     "duration": 458.0571428571429, 
-    "artist": ""
+    "artist": "Nobuko Imai; Roland Pontinen"
   }
 }

@@ -742,10 +742,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Sleep (Instrumental)", 
+    "identifiers": {
+        "musicbrainz": "a9024273-8845-47d8-a411-917e311c8c0d"
+    }, 
+    "release": "Juno", 
     "duration": 52.7934693877551, 
-    "artist": ""
+    "artist": "Kimya Dawson"
   }
 }

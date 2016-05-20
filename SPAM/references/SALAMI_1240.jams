@@ -1804,10 +1804,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Duncan and Brady", 
+    "identifiers": {
+        "internetarchive_URL": "http://www.archive.org/download/markbilyeu2006-02-01.shnf/markbilyeu2006-02-01d1t09_vbr.mp3"
+    }, 
+    "release": "Live at The Record Bar on 2006-02-01", 
     "duration": 209.81551020408162, 
-    "artist": ""
+    "artist": "Mark Bilyeu"
   }
 }

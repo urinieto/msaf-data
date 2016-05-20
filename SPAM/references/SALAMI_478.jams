@@ -1438,10 +1438,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "A Tribute to Someone", 
+    "identifiers": {
+        "musicbrainz": "dbd1e929-153d-4bc7-8d90-161852e80bda"
+    }, 
+    "release": "My Point of View", 
     "duration": 525.0612244897959, 
-    "artist": ""
+    "artist": "Herbie Hancock"
   }
 }

@@ -916,10 +916,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Trouble Blues", 
+    "identifiers": {
+        "musicbrainz": "3bac28fe-086f-45c9-aa70-cf3d8b2808af"
+    }, 
+    "release": "Slippin' In", 
     "duration": 178.36408163265307, 
-    "artist": ""
+    "artist": "Buddy Guy"
   }
 }

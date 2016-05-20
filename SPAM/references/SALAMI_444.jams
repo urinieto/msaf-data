@@ -1336,10 +1336,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "My Funny Valentine", 
+    "identifiers": {
+        "musicbrainz": "3d025770-ba6b-4521-932a-9eba9f24527c"
+    }, 
+    "release": "The Revival of the Jazz", 
     "duration": 490.7885714285714, 
-    "artist": ""
+    "artist": "Stan Getz"
   }
 }

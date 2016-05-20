@@ -1228,10 +1228,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Sonata in F minor, K 466 (L118)", 
+    "identifiers": {
+        "musicbrainz": "5c51f47c-8169-4221-aab0-848ad04aef96"
+    }, 
+    "release": "The Original Jacket Collection", 
     "duration": 297.8742857142857, 
-    "artist": ""
+    "artist": "Vladimir Horowitz"
   }
 }
