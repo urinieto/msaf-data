@@ -1192,10 +1192,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Drifting Too Far From The Shore", 
+    "identifiers": {
+        "musicbrainz": "f6ef2d08-1128-42fc-8a58-409afc0fa8db"
+    }, 
+    "release": "The Stained Glass Hour, Bluegrass and Old Timey Gospel Music", 
     "duration": 240.065306122449, 
-    "artist": ""
+    "artist": "Boone Creek"
   }
 }

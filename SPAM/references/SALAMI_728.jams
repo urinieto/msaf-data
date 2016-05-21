@@ -2254,10 +2254,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Timbuktu", 
+    "identifiers": {
+        "musicbrainz": "c21b1db6-5c03-490d-b23c-ca9ffacf2491"
+    }, 
+    "release": "Timbuktu", 
     "duration": 348.6824489795918, 
-    "artist": ""
+    "artist": "Issa Bagayogo"
   }
 }

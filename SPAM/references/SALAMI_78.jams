@@ -1606,10 +1606,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Sonata For Viola & Piano - Impetuoso", 
+    "identifiers": {
+        "allmusicguide_URL": "http://www.allmusic.com/performance/impetuoso-mq0000168777"
+    }, 
+    "release": "A Portrait of the Viola", 
     "duration": 468.1404081632653, 
-    "artist": ""
+    "artist": "Steven Dann, Bruce Vogt"
   }
 }

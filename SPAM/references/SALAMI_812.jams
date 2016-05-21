@@ -1672,10 +1672,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "A La Hora Que Me Llamen Voy", 
+    "identifiers": {
+        "musicbrainz": "b317d00e-2e89-48a6-b946-bba716b1b079"
+    }, 
+    "release": "Orquesta Original de Manzanillo", 
     "duration": 268.5126530612245, 
-    "artist": ""
+    "artist": "Orquesta Original de Manzanillo"
   }
 }

@@ -1060,10 +1060,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "", 
-    "identifiers": {}, 
-    "release": "", 
+    "title": "Mi Nino Curro", 
+    "identifiers": {
+        "musicbrainz": "c94e58d9-9654-45ef-b448-68035911e1bd"
+    }, 
+    "release": "Sus 50 mejores canciones (disc 3)", 
     "duration": 213.1330612244898, 
-    "artist": ""
+    "artist": "Paco de Lucia"
   }
 }
