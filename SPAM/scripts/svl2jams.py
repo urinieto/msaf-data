@@ -75,6 +75,10 @@ def create_annotation(root, annotator_id, jam_file, namespace):
     point = points.next()
     start = float(point.attrib["frame"]) / sr
     label = point.attrib["label"]
+
+    intervals = []
+    labels = []
+
     for point in points:
         # Make sure upper and lower case are consistent
         if namespace == "segment_salami_lower":
@@ -85,9 +89,22 @@ def create_annotation(root, annotator_id, jam_file, namespace):
 
         # Create datapoint
         sec_dur = float(point.attrib["frame"]) / sr - start
-        ann.append(time=start, duration=sec_dur, confidence=1, value=label)
+        #ann.append(time=start, duration=sec_dur, confidence=1, value=label)
+        intervals.append((start, sec_dur))
+        labels.append(label)
+
         start = float(point.attrib["frame"]) / sr
         label = point.attrib["label"]
+
+    # Tack on the last segment, if it ends before the track
+    intervals.append((start, ann.duration - start))
+    labels.append(label)
+
+    for (start, sec_dur), label in zip(intervals, labels):
+        # Only include intervals with positive duration
+        if sec_dur > 0:
+            ann.append(time=start, duration=sec_dur,
+                       value=label, confidence=1)
 
     # Save file
     jam.save(jam_file)
