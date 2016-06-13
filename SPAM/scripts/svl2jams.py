@@ -48,9 +48,17 @@ def create_annotation(root, annotator_id, jam_file, namespace):
     # Load jam file
     jam = jams.load(jam_file)
 
+    # Get the annotation parameters from the SV model
+    model = root.iter('model').next()
+
+    sr = float(model.attrib['sampleRate'])
+    ann_time = float(model.attrib['start']) / sr
+    ann_duration = float(model.attrib['end']) / sr - ann_time
+
     # Create Annotation
-    ann = jams.Annotation(namespace=namespace, time=0,
-                          duration=jam.file_metadata.duration)
+    ann = jams.Annotation(namespace=namespace,
+                          time=ann_time,
+                          duration=ann_duration)
 
     # Create Annotation Metadata
     ann.annotation_metadata = jams.AnnotationMetadata(
@@ -64,30 +72,42 @@ def create_annotation(root, annotator_id, jam_file, namespace):
         "email": ANNOTATORS[annotator_id]["email"]
     }
 
-    # Add annotation to JAMS
-    jam.annotations.append(ann)
-
-    # Get sampling rate from XML root
-    sr = float(root.iter("model").next().attrib["sampleRate"])
 
     # Create datapoints from the XML root
-    points = root.iter("point")
-    point = points.next()
-    start = float(point.attrib["frame"]) / sr
-    label = point.attrib["label"]
-    for point in points:
-        # Make sure upper and lower case are consistent
-        if namespace == "segment_salami_lower":
-            label = label.lower()
-        elif namespace == "segment_salami_upper":
-            label = label.upper()
-        label = label.replace(" ", "")
+    boundaries = []
+    labels = []
 
-        # Create datapoint
-        sec_dur = float(point.attrib["frame"]) / sr - start
-        ann.append(time=start, duration=sec_dur, confidence=1, value=label)
-        start = float(point.attrib["frame"]) / sr
-        label = point.attrib["label"]
+    for boundary in root.iter('point'):
+        # Convert from frames to time
+        boundaries.append(float(boundary.attrib['frame']) / sr)
+
+        # strip out spaces
+        labels.append(boundary.attrib['label'].replace(' ', ''))
+
+    # Pad to the full range [ann_time, ann_time + ann_duration]
+    if min(boundaries) > ann_time:
+        boundaries.insert(0, ann_time)
+        labels.insert(0, 'Silence')
+
+    if max(boundaries) < ann_time + ann_duration:
+        boundaries.append(ann_time + ann_duration)
+        labels.append('Silence')
+
+    # Adjust the capitalization
+    if namespace == 'segment_salami_lower':
+        labels = [_.lower() for _ in labels]
+    elif namespace == 'segment_salami_upper':
+        labels = [_.upper() for _ in labels]
+
+    for start, end, label in zip(boundaries[:-1], boundaries[1:], labels):
+        # Only include intervals with positive duration
+        dur = end - start
+        if dur > 0:
+            ann.append(time=start, duration=dur,
+                       value=label, confidence=1)
+
+    # Add annotation to JAMS
+    jam.annotations.append(ann)
 
     # Save file
     jam.save(jam_file)
