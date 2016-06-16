@@ -113,33 +113,56 @@ def create_annotation(root, annotator_id, jam_file, namespace):
     jam.save(jam_file)
 
 
-def sv_to_audio_path(sv_file, audio_folder):
-    """Converts a sonic visualiser name file to an audio for the SPAM
-    dataset."""
-    return os.path.join(audio_folder,
-                        "SPAM_" + os.path.basename(sv_file)[:-6] + ".mp3")
+def parse_metadata(metadata_field):
+    """Cleans the metadata field, in case it's NaN, converts it to str."""
+    str_field = str(metadata_field)
+    if str_field == "nan":
+        return ""
+    return str_field
 
 
-def create_jams(out_file, audio_file):
+def get_identifiers(jam, metadata):
+    """Adds the identifier, if available."""
+    identifiers = {}
+
+    def get_identifier(identifier):
+        try:
+            str_field = parse_metadata(metadata[identifier])
+            if str_field != "":
+                identifiers[identifier] = str_field
+        except KeyError:
+            identifiers[identifier] = ""
+
+    get_identifier("internet_archive_url")
+    get_identifier("youtube_url")
+    get_identifier("musicbrainzid")
+    return identifiers
+
+
+def create_jams(out_file, metadata):
     """Creates a new JAMS file in out_file for the SPAM dataset."""
-    # Get duration
-    y, fs = librosa.load(audio_file)
-    dur = len(y) / float(fs)
-
     # Create the actual jams object and add some metadata
     jam = jams.JAMS()
-    jam.file_metadata.duration = dur
+
+    if metadata is not None:
+        print(metadata)
+        jam.file_metadata.artist = parse_metadata(metadata["artist"])
+        jam.file_metadata.title = parse_metadata(metadata["title"])
+        jam.file_metadata.release = parse_metadata(metadata["release"])
+        jam.file_metadata.duration = metadata["duration"]
+        jam.file_metadata.identifiers = get_identifiers(jam, metadata)
+        jam.sandbox = {"subcorpus": metadata["subcorpus"],
+                       "genre": metadata["Genre"]}
 
     # Save to disk
     jam.save(out_file)
 
 
-def process(in_file, out_file="output.jams", audio_folder="audio"):
+def process(in_file, out_file="output.jams", metadata=None):
     """Main process to convert an svl file to JAMS."""
     # If the output jams doesn't exist, create it:
-    audio_file = sv_to_audio_path(in_file, audio_folder)
     if not os.path.isfile(out_file):
-        create_jams(out_file, audio_file)
+        create_jams(out_file, metadata)
 
     # Parse svl file (XML)
     tree = ET.parse(in_file)
