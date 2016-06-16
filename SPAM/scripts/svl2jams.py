@@ -62,7 +62,7 @@ def create_annotation(root, annotator_id, jam_file, namespace):
 
     # Create Annotation Metadata
     ann.annotation_metadata = jams.AnnotationMetadata(
-        corpus="SPAM dataset", data_source="Human Expert", version="1.0",
+        corpus="SPAM dataset", data_source="Human Expert", version="1.1",
         annotation_rules="SALAMI")
     ann.annotation_metadata.annotation_tools = "Sonic Visualiser"
     ann.annotation_metadata.curator = jams.Curator(

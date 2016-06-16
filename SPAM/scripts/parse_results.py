@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Converts an svl file into a JAMS annotation
+Converts svl files into JAMS annotations.
 """
 import argparse
 import glob
@@ -23,11 +23,11 @@ def ensure_dir(directory):
         os.makedirs(directory)
 
 
-def process(results_dir, out_dir):
+def process(original_dir, out_dir):
     """Main process to parse all the results from the results_dir
         to out_dir."""
     ensure_dir(out_dir)
-    annotators = glob.glob(os.path.join(results_dir, "*"))
+    annotators = glob.glob(os.path.join(original_dir, "*"))
     for annotator in annotators:
         svl_files = glob.glob(os.path.join(annotator, "*.svl"))
         for svl_file in svl_files:
@@ -38,13 +38,13 @@ def process(results_dir, out_dir):
 
 
 def main():
-    """Main function to parse the experiment results."""
+    """Main function to parse the original annotations."""
     parser = argparse.ArgumentParser(
-        description="Parse all the experiment results.",
+        description="Parse all the original annotations.",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-    parser.add_argument("results_dir",
+    parser.add_argument("original_dir",
                         action="store",
-                        help="Results directory")
+                        help="Original annotations directory")
     parser.add_argument("out_dir",
                         action="store",
                         help="Output annotation folder")
@@ -56,7 +56,7 @@ def main():
                         level=logging.INFO)
 
     # Run the algorithm
-    process(args.results_dir, args.out_dir)
+    process(args.original_dir, args.out_dir)
 
     # Done!
     logging.info("Done! Took %.2f seconds." % (time.time() - start_time))
