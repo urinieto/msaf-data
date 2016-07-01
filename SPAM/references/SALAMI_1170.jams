@@ -1,11 +1,14 @@
 {
-  "sandbox": {}, 
+  "sandbox": {
+    "genre": "Live Music", 
+    "subcorpus": "challenging"
+  }, 
   "annotations": [
     {
       "namespace": "segment_salami_upper", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 399.28163265306125, 
+      "time": 0.046439909297052155, 
+      "duration": 399.1510204081632, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -16,7 +19,7 @@
           "name": "Colin Hua", 
           "email": "colin.z.hua@gmail.com"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -88,8 +91,8 @@
     {
       "namespace": "segment_salami_lower", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 399.28163265306125, 
+      "time": 0.046439909297052155, 
+      "duration": 399.1510204081632, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -100,7 +103,7 @@
           "name": "Colin Hua", 
           "email": "colin.z.hua@gmail.com"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -178,8 +181,8 @@
     {
       "namespace": "segment_salami_upper", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 399.28163265306125, 
+      "time": 0.0, 
+      "duration": 399.21632653061226, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -190,7 +193,7 @@
           "name": "Eleni Vasilia Maltas", 
           "email": "evm241@nyu.edu"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -274,8 +277,8 @@
     {
       "namespace": "segment_salami_lower", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 399.28163265306125, 
+      "time": 0.0, 
+      "duration": 400.065306122449, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -286,7 +289,7 @@
           "name": "Eleni Vasilia Maltas", 
           "email": "evm241@nyu.edu"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -454,8 +457,8 @@
     {
       "namespace": "segment_salami_upper", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 399.28163265306125, 
+      "time": 0.0, 
+      "duration": 383.84907029478455, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -466,7 +469,7 @@
           "name": "John Turner", 
           "email": "johnturner@me.com"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -532,8 +535,8 @@
     {
       "namespace": "segment_salami_lower", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 399.28163265306125, 
+      "time": 0.0, 
+      "duration": 399.2903401360544, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -544,7 +547,7 @@
           "name": "John Turner", 
           "email": "johnturner@me.com"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1066,8 +1069,8 @@
     {
       "namespace": "segment_salami_upper", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 399.28163265306125, 
+      "time": 0.0007256235827664399, 
+      "duration": 399.28961451247164, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -1078,7 +1081,7 @@
           "name": "Evan S. Johnson", 
           "email": "esj254@nyu.edu"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1138,8 +1141,8 @@
     {
       "namespace": "segment_salami_lower", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 399.28163265306125, 
+      "time": 0.0007256235827664399, 
+      "duration": 399.28961451247164, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -1150,7 +1153,7 @@
           "name": "Evan S. Johnson", 
           "email": "esj254@nyu.edu"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1258,8 +1261,8 @@
     {
       "namespace": "segment_salami_upper", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 399.28163265306125, 
+      "time": 0.023219954648526078, 
+      "duration": 383.8722902494331, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -1270,7 +1273,7 @@
           "name": "Shuli Tang", 
           "email": "luiseslt@gmail.com"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1318,8 +1321,8 @@
     {
       "namespace": "segment_salami_lower", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 399.28163265306125, 
+      "time": 0.023219954648526078, 
+      "duration": 399.3367800453515, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -1330,7 +1333,7 @@
           "name": "Shuli Tang", 
           "email": "luiseslt@gmail.com"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1390,12 +1393,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "Freight Train", 
+    "title": "A La Hora Que Me Llamen Voy", 
     "identifiers": {
-        "internetarchive_URL": "http://www.archive.org/download/hpr2010-01-22/hpr2010-01-22d1t01_vbr.mp3"
+      "musicbrainzid": "b317d00e-2e89-48a6-b946-bba716b1b079"
     }, 
-    "release": "Live at Market Cross Pub on 2010-01-22", 
-    "duration": 399.28163265306125, 
-    "artist": "Husky Pants and the Rail"
+    "release": "Orquesta Original de Manzanillo", 
+    "duration": 268.5126531, 
+    "artist": "Orquesta Original de Manzanillo"
   }
 }

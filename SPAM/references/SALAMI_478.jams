@@ -1,11 +1,14 @@
 {
-  "sandbox": {}, 
+  "sandbox": {
+    "genre": "Jazz & Blues", 
+    "subcorpus": "challenging"
+  }, 
   "annotations": [
     {
       "namespace": "segment_salami_lower", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 525.0612244897959, 
+      "time": 0.23219954648526078, 
+      "duration": 520.7365079365079, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -16,7 +19,7 @@
           "name": "Colin Hua", 
           "email": "colin.z.hua@gmail.com"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -112,8 +115,8 @@
     {
       "namespace": "segment_salami_upper", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 525.0612244897959, 
+      "time": 0.23219954648526078, 
+      "duration": 520.7365079365079, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -124,7 +127,7 @@
           "name": "Colin Hua", 
           "email": "colin.z.hua@gmail.com"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -190,8 +193,8 @@
     {
       "namespace": "segment_salami_lower", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 525.0612244897959, 
+      "time": 0.0, 
+      "duration": 520.1632653061224, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -202,7 +205,7 @@
           "name": "Eleni Vasilia Maltas", 
           "email": "evm241@nyu.edu"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -562,8 +565,8 @@
     {
       "namespace": "segment_salami_upper", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 525.0612244897959, 
+      "time": 0.0, 
+      "duration": 519.5755102040816, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -574,7 +577,7 @@
           "name": "Eleni Vasilia Maltas", 
           "email": "evm241@nyu.edu"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -640,8 +643,8 @@
     {
       "namespace": "segment_salami_lower", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 525.0612244897959, 
+      "time": 0.0, 
+      "duration": 525.0031746031746, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -652,7 +655,7 @@
           "name": "John Turner", 
           "email": "johnturner@me.com"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -844,8 +847,8 @@
     {
       "namespace": "segment_salami_upper", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 525.0612244897959, 
+      "time": 0.0, 
+      "duration": 525.0031746031746, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -856,7 +859,7 @@
           "name": "John Turner", 
           "email": "johnturner@me.com"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -904,7 +907,7 @@
     {
       "namespace": "segment_salami_lower", 
       "sandbox": {}, 
-      "time": 0, 
+      "time": 0.0, 
       "duration": 525.0612244897959, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
@@ -916,7 +919,7 @@
           "name": "Evan S. Johnson", 
           "email": "esj254@nyu.edu"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1114,7 +1117,7 @@
     {
       "namespace": "segment_salami_upper", 
       "sandbox": {}, 
-      "time": 0, 
+      "time": 0.0, 
       "duration": 525.0612244897959, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
@@ -1126,7 +1129,7 @@
           "name": "Evan S. Johnson", 
           "email": "esj254@nyu.edu"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1204,8 +1207,8 @@
     {
       "namespace": "segment_salami_lower", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 525.0612244897959, 
+      "time": 0.023219954648526078, 
+      "duration": 520.1269841269841, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -1216,7 +1219,7 @@
           "name": "Shuli Tang", 
           "email": "luiseslt@gmail.com"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1366,8 +1369,8 @@
     {
       "namespace": "segment_salami_upper", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 525.0612244897959, 
+      "time": 0.023219954648526078, 
+      "duration": 520.1269841269841, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -1378,7 +1381,7 @@
           "name": "Shuli Tang", 
           "email": "luiseslt@gmail.com"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1438,12 +1441,10 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "A Tribute to Someone", 
-    "identifiers": {
-        "musicbrainz": "dbd1e929-153d-4bc7-8d90-161852e80bda"
-    }, 
-    "release": "My Point of View", 
-    "duration": 525.0612244897959, 
-    "artist": "Herbie Hancock"
+    "title": "Gehimes Flu stern Hier Und Dort", 
+    "identifiers": {}, 
+    "release": "Compilation", 
+    "duration": 251.0628571, 
+    "artist": ""
   }
 }

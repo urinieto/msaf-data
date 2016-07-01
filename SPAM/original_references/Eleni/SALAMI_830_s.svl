@@ -2,7 +2,7 @@
 <!DOCTYPE sonic-visualiser>
 <sv>
   <data>
-    <model id="3" name="" sampleRate="44100" start="18446744073709536256" end="14144512" type="sparse" dimensions="1" resolution="1" notifyOnAdd="true" dataset="2" />
+    <model id="3" name="" sampleRate="44100" start="0" end="14144512" type="sparse" dimensions="1" resolution="1" notifyOnAdd="true" dataset="2" />
     <dataset id="2" dimensions="1">
       <point frame="0" label="a" />
       <point frame="626688" label="b" />

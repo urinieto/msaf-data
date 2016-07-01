@@ -1,11 +1,14 @@
 {
-  "sandbox": {}, 
+  "sandbox": {
+    "genre": "Classical", 
+    "subcorpus": "challenging"
+  }, 
   "annotations": [
     {
       "namespace": "segment_salami_upper", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 458.0571428571429, 
+      "time": 0.046439909297052155, 
+      "duration": 451.62811791383217, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -16,7 +19,7 @@
           "name": "Colin Hua", 
           "email": "colin.z.hua@gmail.com"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -27,7 +30,7 @@
           "duration": 1.021678, 
           "confidence": 1.0, 
           "value": "SILENCE", 
-          "time": 0.04644
+          "time": 0.0
         }, 
         {
           "duration": 69.706304, 
@@ -66,7 +69,7 @@
           "time": 286.90576000000004
         }, 
         {
-          "duration": 122.06730200000001, 
+          "duration": 11.760907000000001, 
           "confidence": 1.0, 
           "value": "G", 
           "time": 329.607256
@@ -76,8 +79,8 @@
     {
       "namespace": "segment_salami_lower", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 458.0571428571429, 
+      "time": 0.046439909297052155, 
+      "duration": 451.62811791383217, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -88,7 +91,7 @@
           "name": "Colin Hua", 
           "email": "colin.z.hua@gmail.com"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -250,8 +253,8 @@
     {
       "namespace": "segment_salami_upper", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 458.0571428571429, 
+      "time": 0.0, 
+      "duration": 449.8285714285714, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -262,7 +265,7 @@
           "name": "Eleni Vasilia Maltas", 
           "email": "evm241@nyu.edu"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -310,8 +313,8 @@
     {
       "namespace": "segment_salami_lower", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 458.0571428571429, 
+      "time": 0.0, 
+      "duration": 450.00272108843535, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -322,7 +325,7 @@
           "name": "Eleni Vasilia Maltas", 
           "email": "evm241@nyu.edu"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -568,8 +571,8 @@
     {
       "namespace": "segment_salami_upper", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 458.0571428571429, 
+      "time": 0.0, 
+      "duration": 304.8315646258503, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -580,7 +583,7 @@
           "name": "John Turner", 
           "email": "johnturner@me.com"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -628,14 +631,20 @@
           "confidence": 1.0, 
           "value": "B", 
           "time": 262.594467
+        }, 
+        {
+          "duration": 36.536598000000005, 
+          "confidence": 0.0, 
+          "value": "ZZZZZ", 
+          "time": 304.831565
         }
       ]
     }, 
     {
       "namespace": "segment_salami_lower", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 458.0571428571429, 
+      "time": 0.0, 
+      "duration": 373.49297052154196, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -646,7 +655,7 @@
           "name": "John Turner", 
           "email": "johnturner@me.com"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -868,8 +877,8 @@
     {
       "namespace": "segment_salami_upper", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 458.0571428571429, 
+      "time": 0.0, 
+      "duration": 458.1224489795918, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -880,7 +889,7 @@
           "name": "Evan S. Johnson", 
           "email": "esj254@nyu.edu"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -946,8 +955,8 @@
     {
       "namespace": "segment_salami_lower", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 458.0571428571429, 
+      "time": 0.0, 
+      "duration": 458.1224489795918, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -958,7 +967,7 @@
           "name": "Evan S. Johnson", 
           "email": "esj254@nyu.edu"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1144,8 +1153,8 @@
     {
       "namespace": "segment_salami_upper", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 458.0571428571429, 
+      "time": 0.046439909297052155, 
+      "duration": 449.78213151927434, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -1156,7 +1165,7 @@
           "name": "Shuli Tang", 
           "email": "luiseslt@gmail.com"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1167,7 +1176,7 @@
           "duration": 1.0681180000000001, 
           "confidence": 1.0, 
           "value": "SILENCE", 
-          "time": 0.04644
+          "time": 0.0
         }, 
         {
           "duration": 69.265125, 
@@ -1188,7 +1197,7 @@
           "time": 191.146667
         }, 
         {
-          "duration": 120.929524, 
+          "duration": 12.469115, 
           "confidence": 1.0, 
           "value": "D", 
           "time": 328.899048
@@ -1198,8 +1207,8 @@
     {
       "namespace": "segment_salami_lower", 
       "sandbox": {}, 
-      "time": 0, 
-      "duration": 458.0571428571429, 
+      "time": 0.046439909297052155, 
+      "duration": 449.78213151927434, 
       "annotation_metadata": {
         "annotation_tools": "Sonic Visualiser", 
         "curator": {
@@ -1210,7 +1219,7 @@
           "name": "Shuli Tang", 
           "email": "luiseslt@gmail.com"
         }, 
-        "version": "1.0", 
+        "version": "1.1", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1336,12 +1345,10 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "Fantasia cromatica in D minor, BWV 903 (arr. Zoltan Kodaly)", 
-    "identifiers": {
-        "musicbrainz": "b4466eda-3412-4e99-ac83-e76ef63e367e"
-    }, 
-    "release": "Viola Bouquet", 
-    "duration": 458.0571428571429, 
-    "artist": "Nobuko Imai; Roland Pontinen"
+    "title": "Abyss (Piano Trio)", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 341.3681633, 
+    "artist": "Takao Nagai Trio"
   }
 }

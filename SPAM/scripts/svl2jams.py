@@ -48,13 +48,21 @@ def create_annotation(root, annotator_id, jam_file, namespace):
     # Load jam file
     jam = jams.load(jam_file)
 
+    # Get the annotation parameters from the SV model
+    model = root.iter('model').next()
+
+    sr = float(model.attrib['sampleRate'])
+    ann_time = float(model.attrib['start']) / sr
+    ann_duration = float(model.attrib['end']) / sr - ann_time
+
     # Create Annotation
-    ann = jams.Annotation(namespace=namespace, time=0,
-                          duration=jam.file_metadata.duration)
+    ann = jams.Annotation(namespace=namespace,
+                          time=ann_time,
+                          duration=ann_duration)
 
     # Create Annotation Metadata
     ann.annotation_metadata = jams.AnnotationMetadata(
-        corpus="SPAM dataset", data_source="Human Expert", version="1.0",
+        corpus="SPAM dataset", data_source="Human Expert", version="1.1",
         annotation_rules="SALAMI")
     ann.annotation_metadata.annotation_tools = "Sonic Visualiser"
     ann.annotation_metadata.curator = jams.Curator(
@@ -64,62 +72,97 @@ def create_annotation(root, annotator_id, jam_file, namespace):
         "email": ANNOTATORS[annotator_id]["email"]
     }
 
-    # Add annotation to JAMS
-    jam.annotations.append(ann)
-
-    # Get sampling rate from XML root
-    sr = float(root.iter("model").next().attrib["sampleRate"])
 
     # Create datapoints from the XML root
-    points = root.iter("point")
-    point = points.next()
-    start = float(point.attrib["frame"]) / sr
-    label = point.attrib["label"]
-    for point in points:
-        # Make sure upper and lower case are consistent
-        if namespace == "segment_salami_lower":
-            label = label.lower()
-        elif namespace == "segment_salami_upper":
-            label = label.upper()
-        label = label.replace(" ", "")
+    boundaries = []
+    labels = []
 
-        # Create datapoint
-        sec_dur = float(point.attrib["frame"]) / sr - start
-        ann.append(time=start, duration=sec_dur, confidence=1, value=label)
-        start = float(point.attrib["frame"]) / sr
-        label = point.attrib["label"]
+    for boundary in root.iter('point'):
+        # Convert from frames to time
+        boundaries.append(float(boundary.attrib['frame']) / sr)
+
+        # strip out spaces
+        labels.append(boundary.attrib['label'].replace(' ', ''))
+
+    # Pad to the full range [ann_time, ann_time + ann_duration]
+    if min(boundaries) > ann_time:
+        boundaries.insert(0, ann_time)
+        labels.insert(0, 'Silence')
+
+    if max(boundaries) < ann_time + ann_duration:
+        boundaries.append(ann_time + ann_duration)
+        labels.append('Silence')
+
+    # Adjust the capitalization
+    if namespace == 'segment_salami_lower':
+        labels = [_.lower() for _ in labels]
+    elif namespace == 'segment_salami_upper':
+        labels = [_.upper() for _ in labels]
+
+    for start, end, label in zip(boundaries[:-1], boundaries[1:], labels):
+        # Only include intervals with positive duration
+        dur = end - start
+        if dur > 0:
+            ann.append(time=start, duration=dur,
+                       value=label, confidence=1)
+
+    # Add annotation to JAMS
+    jam.annotations.append(ann)
 
     # Save file
     jam.save(jam_file)
 
 
-def sv_to_audio_path(sv_file, audio_folder):
-    """Converts a sonic visualiser name file to an audio for the SPAM
-    dataset."""
-    return os.path.join(audio_folder,
-                        "SPAM_" + os.path.basename(sv_file)[:-6] + ".mp3")
+def parse_metadata(metadata_field):
+    """Cleans the metadata field, in case it's NaN, converts it to str."""
+    str_field = str(metadata_field)
+    if str_field == "nan":
+        return ""
+    return str_field
 
 
-def create_jams(out_file, audio_file):
+def get_identifiers(jam, metadata):
+    """Adds the identifier, if available."""
+    identifiers = {}
+
+    def get_identifier(identifier):
+        try:
+            str_field = parse_metadata(metadata[identifier])
+            if str_field != "":
+                identifiers[identifier] = str_field
+        except KeyError:
+            identifiers[identifier] = ""
+
+    get_identifier("internet_archive_url")
+    get_identifier("youtube_url")
+    get_identifier("musicbrainzid")
+    return identifiers
+
+
+def create_jams(out_file, metadata):
     """Creates a new JAMS file in out_file for the SPAM dataset."""
-    # Get duration
-    y, fs = librosa.load(audio_file)
-    dur = len(y) / float(fs)
-
     # Create the actual jams object and add some metadata
     jam = jams.JAMS()
-    jam.file_metadata.duration = dur
+
+    if metadata is not None:
+        print(metadata)
+        jam.file_metadata.artist = parse_metadata(metadata["artist"])
+        jam.file_metadata.title = parse_metadata(metadata["title"])
+        jam.file_metadata.release = parse_metadata(metadata["release"])
+        jam.file_metadata.duration = metadata["duration"]
+        jam.file_metadata.identifiers = get_identifiers(jam, metadata)
+        jam.sandbox = {"subcorpus": metadata["subcorpus"],
+                       "genre": metadata["Genre"]}
 
     # Save to disk
     jam.save(out_file)
 
 
-def process(in_file, out_file="output.jams", audio_folder="audio"):
+def process(in_file, out_file="output.jams", metadata=None):
     """Main process to convert an svl file to JAMS."""
     # If the output jams doesn't exist, create it:
-    audio_file = sv_to_audio_path(in_file, audio_folder)
     if not os.path.isfile(out_file):
-        create_jams(out_file, audio_file)
+        create_jams(out_file, metadata)
 
     # Parse svl file (XML)
     tree = ET.parse(in_file)

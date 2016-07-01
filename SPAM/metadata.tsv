@@ -1,0 +1,51 @@
+id	File Name	Genre	subcorpus	artist	title	release	duration	musicbrainzid	internet_archive_url	youtube_url
+0	Cerulean_Bob_Dylan-Hurricane.mp3	Rock	challenging	Bob Dylan	Hurricane	The Bootleg Series, Volume 5: Live 1975: The Rolling Thunder Revue	495.4906122	236c2e74-c88d-4633-9f57-4035d77f0d8c		
+1	Cerulean_Bob_Dylan-Like_a_Rolling_Stone_(Live).mp3	Live Music	challenging	Bob Dylan	Like a Rolling Stone	The Bootleg Series, Volume 4: Live 1966: The "Royal Albert Hall" Concert	482.0114286	0e380207-f211-47b9-a706-0126abca118f		https://www.youtube.com/watch?v=dVMA0jUx70c
+2	Cerulean_Boston_Symphony_Orchestra_&_Charles_Munch-Sympho.mp3	Classical	challenging	Beethoven, Schubert; Boston Symphony Orchestra, Charles Munch	Symphony no. 5 in C minor, op. 67 "Fate": I. Allegro con brio	Beethoven: Symphony no. 5 / Leonore Overture no. 3 / Schubert: Symphony no. 8 "Unfinished"	364.9567347	92d40704-fefc-47f1-b139-f4e41576c60e		
+3	Cerulean_Eddie_Palmieri-Adoracion.mp3	Classical	challenging	Eddie Palmieri	Adoracion	Gold 1973 - 1976	341.8644898	dbc7c761-b9f2-45a1-996e-35ffcb9d0921		
+4	Cerulean_Leonard_Bernstein,_New_York_Philharmonic_&_Rudol.mp3	Classical	challenging	Beethoven; New York Philharmonic, Leonard Bernstein, Rudolf Serkin	Concerto for Piano and Orchestra no. 5 in E-flat major, op. 73 "Emperor": II. Adagio un poco moto	The Royal Edition, Volume 9: Piano Concertos no. 3 & no. 5 "Emperor"	525.3746939	195c5bb3-78e0-4dfe-91d5-0172ee259c4b		
+5	Cerulean_Miles_Davis_Quintet-Footprints.mp3	Jazz & Blues	challenging	Miles Davis Quintet	Footprints	Miles Smiles	586.0832653	11c48cdc-46d9-4764-85c0-a5ec6d4fc022		
+6	Cerulean_Prince_&_The_Revolution-Purple_Rain.mp3	Rock	challenging	Prince and The Revolution	Purple Rain	Purple Rain	522.4228571	85a752f8-cbad-42e6-8828-bd81318e3c7d		
+7	Cerulean_Yes-Starship_Trooper/_A._Life_Seeker,_B._Disillu.mp3	Rock	challenging	Yes	Starship Trooper: a. Life Seeker b. Disillusion c. Wurm	The Yes Album	569.2865306	2f3927ac-9f98-4e7c-9b87-b2ac52715d09		
+8	Epiphyte_0220_promiscuous.mp3	Pop	simple	Nelly Furtado	Promiscuous	Loose	161.8546939	18a6f622-fb42-42b4-82cc-3f8dd428547f		
+9	Epiphyte_0723_hotelroomservice.mp3	Pop	simple	Pitbull	Hotel Room Service	Rebelution	237.2963265	f607af6d-b127-4293-8e2a-e2968ceb0f64		
+10	Epiphyte_0780_letmebereal.mp3	Pop	simple	Fedde Le Grand	Let Me Be Real	Ultra Dance 11	182.9093878	5f1a14f2-81ed-4e42-a184-ebb9077eebf4		
+11	Isophonics_01 The Show Must Go On.mp3	Pop	challenging	Queen	The Show Must Go On	Innuendo	263.7061224	5bdb99b2-b7cc-4aa3-bb4f-4102485ff853		
+12	Isophonics_02 Under Pressure.mp3	Pop	challenging	Queen; David Bowie	Under Pressure	Greatest Hits II	236.8261224	32c7e292-14f1-4080-bddf-ef852e0a4c59		
+13	Isophonics_05 Somebody To Love.mp3	Pop	challenging	Queen	Somebody To Love	A Day at the Races	297.717551	3b286fbf-0dc9-45b8-bf4a-5036ac72526d		
+14	Isophonics_07_-_Maggie_Mae.mp3	Pop	simple	The Beatles	Maggie Mae	As Nature Intended	40.80326531	a1ec0138-7f87-4422-a9af-7e66afddf6fd		
+15	Isophonics_09_-_You_Never_Give_Me_Your_Money.mp3	Pop	challenging	The Beatles	You Never Give Me Your Money	Abbey Road	242.5730612	474546e9-0b30-4881-9269-c6c1c8bbf07b		
+16	Isophonics_CD1_-_14_-_Don't_Pass_Me_By.mp3	Pop	challenging	The Beatles	Don't Pass Me By	The Beatles	230.6089796	744d7528-025d-4bb4-8907-f01ae87f7327		
+17	Isophonics_CD2_-_06_-_Helter_Skelter.mp3	Pop	challenging	The Beatles	Helter Skelter	The Beatles	269.844898	744d7528-025d-4bb4-8907-f01ae87f7327		
+18	SALAMI_12.mp3	Pop	challenging	Cowgirl	Cowgirl	Live at ABC on 2008-04-25	444.5779592			
+19	SALAMI_20.mp3	Jazz & Blues	challenging	Jordi Savall	Tombeau pour Mr de Sainte Colombe	Tous les matins du monde	431.9608163	7095c7d6-6419-4067-bace-cac5d513eea8		
+20	SALAMI_68.mp3	Classical	challenging	Vladimir Horowitz	Sonata in F minor, K 466 (L118)	The Original Jacket Collection	297.8742857	5c51f47c-8169-4221-aab0-848ad04aef96		
+21	SALAMI_78.mp3	Classical	challenging	Husky Pants and the Rail	Freight Train	Live at Market Cross Pub on 2010-01-22	399.2816327		http://www.archive.org/download/hpr2010-01-22/hpr2010-01-22d1t01_vbr.mp3	
+22	SALAMI_108.mp3	Classical	challenging	Jonathan Scales Fourchestra	jonscales20090423t03flac	Live at Double Door Inn on 2009-04-23	550.2955102		http://www.archive.org/download/jonscales2009-04-23.flacf16/jonscales2009-04-23t03_vbr.mp3	
+23	SALAMI_114.mp3	Classical	challenging	Sarah Mclachlan	Mercy	Solace	262.3216327	64819d41-172b-4e93-a27f-39ac971ec4f9		
+24	SALAMI_164.mp3	Classical	challenging	Mark Bilyeu	Duncan and Brady	Live at The Record Bar on 2006-02-01	209.8155102		http://www.archive.org/download/markbilyeu2006-02-01.shnf/markbilyeu2006-02-01d1t09_vbr.mp3	
+25	SALAMI_278.mp3	Classical	challenging	Rumpke Mountain Boys	rumpkemb032808set2t02flac	Live at Japers on 2008-03-28	373.4465306		http://www.archive.org/download/rumpkemb2008-03-28/rumpkemb032808set2t02_vbr.mp3	
+26	SALAMI_286.mp3	Classical	challenging	Zindu	Night Light	Live at Winston's on 2005-02-26	574.6416327		http://www.archive.org/download/zindu2005-02-26.flac/zindu2005-02-26t05_vbr.mp3	
+27	SALAMI_302.mp3	Classical	challenging	Takao Nagai Trio	Abyss (Piano Trio)		341.3681633			
+28	SALAMI_308.mp3	Country	challenging	Alvaro Cassuto	Symphony No. 39 In E-Flat Major, K. 543. Adagio-Allegro	Mozart: Symphonies Nos. 39 & 40	564.7673469			
+29	SALAMI_444.mp3	Jazz & Blues	challenging	Buddy Guy	Trouble Blues	Slippin' In	178.3640816	3bac28fe-086f-45c9-aa70-cf3d8b2808af		
+30	SALAMI_458.mp3	Jazz & Blues	challenging	Tulio Serafin	Cavalleria Rusticana-Intermezzo	Mascagni: Caballeria rusticana - Leoncaballo: Pegliacci	240.0653061	5f0416a1-9fe3-4ca6-b7f3-8f4c3b732f6a		
+31	SALAMI_478.mp3	Jazz & Blues	challenging		Gehimes Flu stern Hier Und Dort	Compilation	251.0628571			
+32	SALAMI_538.mp3	Folk	challenging	Nobuko Imai; Roland Pontinen	Fantasia cromatica in D minor, BWV 903 (arr. Zoltan Kodaly)	Viola Bouquet	458.0571429	b4466eda-3412-4e99-ac83-e76ef63e367e		
+33	SALAMI_542.mp3	Folk	challenging	Nathan	The Wind	Key Principles	282.6710204	31c00f0f-027f-4830-b89d-afb9b9b7e011		
+34	SALAMI_546.mp3	Folk	challenging	Stan Getz	My Funny Valentine	The Revival of the Jazz	490.7885714	3d025770-ba6b-4521-932a-9eba9f24527c		
+35	SALAMI_584.mp3	Jazz & Blues	challenging	Sidney Bechet	Summertime	The Best of Sidney Bechet	254.197551	ae61e2a9-706d-4df8-9559-d625a8e4c179		
+36	SALAMI_728.mp3	World	challenging	Herbie Hancock	A Tribute to Someone	My Point of View	525.0612245	dbd1e929-153d-4bc7-8d90-161852e80bda		
+37	SALAMI_812.mp3	World	simple	Kimya Dawson	Sleep (Instrumental)	Juno	52.79346939	a9024273-8845-47d8-a411-917e311c8c0d		
+38	SALAMI_830.mp3	World	challenging	The Last Town Chorus	Modern Love	Wire Waltz	266.6057143	e06c0ddc-6a85-4be3-9cde-1e8c34eda834		
+39	SALAMI_838.mp3	World	challenging		Tear in my Beer		209.5281633			
+40	SALAMI_876.mp3	World	challenging	Maceo Parker	Over the Rainbow	Roots Revisited	256.0261224	7d177a6b-b4c1-4627-a3b1-87eaf2be8971		
+41	SALAMI_940.mp3	World	challenging	Quarteto Italiano	Ravel: String Quartet in F Major, M.35-3. Tres Lent	Ravel: String Quartet; Violin sonata; Piano Trio	544.0522449			
+42	SALAMI_944.mp3	World	challenging	Issa Bagayogo	Timbuktu	Timbuktu	348.682449	c21b1db6-5c03-490d-b23c-ca9ffacf2491		
+43	SALAMI_1072.mp3	Live Music	challenging	Steven Dann, Bruce Vogt	Sonata For Viola & Piano - Impetuoso	A Portrait of the Viola	468.1404082			
+44	SALAMI_1170.mp3	Live Music	challenging	Orquesta Original de Manzanillo	A La Hora Que Me Llamen Voy	Orquesta Original de Manzanillo	268.5126531	b317d00e-2e89-48a6-b946-bba716b1b079		
+45	SALAMI_1198.mp3	Live Music	challenging		Plamina___Stara_Planina		321.2277551			
+46	SALAMI_1240.mp3	Live Music	challenging	Paco de Lucia	Mi Nino Curro	Sus 50 mejores canciones (disc 3)	213.1330612	c94e58d9-9654-45ef-b448-68035911e1bd		
+47	SALAMI_1324.mp3	Live Music	challenging		Ramona		203.2587755			
+48	SALAMI_1482.mp3	Live Music	challenging	Astor Piazzolla	Adios Nonino		419.5004082			
+49	SALAMI_1562.mp3	Jazz & Blues	challenging	Boone Creek	Drifting Too Far From The Shore	The Stained Glass Hour, Bluegrass and Old Timey Gospel Music	240.0653061	f6ef2d08-1128-42fc-8a58-409afc0fa8db		
