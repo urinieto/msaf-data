@@ -21,7 +21,7 @@ These are stored in a JSON file using the MSAF format, one per track.
 
 The available features are the following:
 
-* Constant-Q Transform (`cqt)
+* Constant-Q Transform (`cqt`)
 * Mel Frequency Cepstral Coefficients (`mfcc`)
 * Pitch Class Profiles (`pcp`)
 * Tempograms (`tempograms`)
