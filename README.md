@@ -1,7 +1,7 @@
 MSAF Datasets
 =============
 
-In this repo a series of datasets for the Music Structure Analysis Framework are found.
+In this repo a series of datasets for the [Music Structure Analysis Framework](https://github.com/urinieto/msaf) are found.
 
 More specifically, the following datasets are available:
 
