@@ -17,7 +17,7 @@
         }, 
         "annotator": {
           "name": "Colin Hua", 
-          "email": "colin.z.hua@gmail.com"
+          "email": ""
         }, 
         "version": "1.2", 
         "corpus": "SPAM dataset", 
@@ -167,7 +167,7 @@
         }, 
         "annotator": {
           "name": "Colin Hua", 
-          "email": "colin.z.hua@gmail.com"
+          "email": ""
         }, 
         "version": "1.2", 
         "corpus": "SPAM dataset", 
@@ -281,7 +281,7 @@
         }, 
         "annotator": {
           "name": "Eleni Vasilia Maltas", 
-          "email": "evm241@nyu.edu"
+          "email": ""
         }, 
         "version": "1.2", 
         "corpus": "SPAM dataset", 
@@ -1301,7 +1301,7 @@
         }, 
         "annotator": {
           "name": "Eleni Vasilia Maltas", 
-          "email": "evm241@nyu.edu"
+          "email": ""
         }, 
         "version": "1.2", 
         "corpus": "SPAM dataset", 
@@ -1427,7 +1427,7 @@
         }, 
         "annotator": {
           "name": "John Turner", 
-          "email": "johnturner@me.com"
+          "email": ""
         }, 
         "version": "1.2", 
         "corpus": "SPAM dataset", 
@@ -1631,7 +1631,7 @@
         }, 
         "annotator": {
           "name": "John Turner", 
-          "email": "johnturner@me.com"
+          "email": ""
         }, 
         "version": "1.2", 
         "corpus": "SPAM dataset", 
@@ -1715,7 +1715,7 @@
         }, 
         "annotator": {
           "name": "Evan S. Johnson", 
-          "email": "esj254@nyu.edu"
+          "email": ""
         }, 
         "version": "1.2", 
         "corpus": "SPAM dataset", 
@@ -1889,7 +1889,7 @@
         }, 
         "annotator": {
           "name": "Evan S. Johnson", 
-          "email": "esj254@nyu.edu"
+          "email": ""
         }, 
         "version": "1.2", 
         "corpus": "SPAM dataset", 
@@ -1997,7 +1997,7 @@
         }, 
         "annotator": {
           "name": "Shuli Tang", 
-          "email": "luiseslt@gmail.com"
+          "email": ""
         }, 
         "version": "1.2", 
         "corpus": "SPAM dataset", 
@@ -2159,7 +2159,7 @@
         }, 
         "annotator": {
           "name": "Shuli Tang", 
-          "email": "luiseslt@gmail.com"
+          "email": ""
         }, 
         "version": "1.2", 
         "corpus": "SPAM dataset", 
@@ -2297,7 +2297,7 @@
         }, 
         "annotator": {
           "name": "Colin Hua", 
-          "email": "colin.z.hua@gmail.com"
+          "email": ""
         }, 
         "version": "1.2", 
         "corpus": "SPAM dataset", 
@@ -2645,7 +2645,7 @@
         }, 
         "annotator": {
           "name": "John Turner", 
-          "email": "johnturner@me.com"
+          "email": ""
         }, 
         "version": "1.2", 
         "corpus": "SPAM dataset", 
@@ -3029,7 +3029,7 @@
         }, 
         "annotator": {
           "name": "Shuli Tang", 
-          "email": "luiseslt@gmail.com"
+          "email": ""
         }, 
         "version": "1.2", 
         "corpus": "SPAM dataset", 
@@ -3431,7 +3431,7 @@
         }, 
         "annotator": {
           "name": "Evan S. Johnson", 
-          "email": "esj254@nyu.edu"
+          "email": ""
         }, 
         "version": "1.2", 
         "corpus": "SPAM dataset", 
@@ -3806,7 +3806,7 @@
         }, 
         "annotator": {
           "name": "Eleni Vasilia Maltas", 
-          "email": "evm241@nyu.edu"
+          "email": ""
         }, 
         "version": "1.2", 
         "corpus": "SPAM dataset", 

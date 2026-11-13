@@ -22,23 +22,23 @@ __email__ = "oriol@nyu.edu"
 ANNOTATORS = {
     "Colin": {
         "name": "Colin Hua",
-        "email": "colin.z.hua@gmail.com"
+        "email": ""
     },
     "Eleni": {
         "name": "Eleni Vasilia Maltas",
-        "email": "evm241@nyu.edu"
+        "email": ""
     },
     "Evan": {
         "name": "Evan S. Johnson",
-        "email": "esj254@nyu.edu"
+        "email": ""
     },
     "John": {
         "name": "John Turner",
-        "email": "johnturner@me.com"
+        "email": ""
     },
     "Shuli": {
         "name": "Shuli Tang",
-        "email": "luiseslt@gmail.com"
+        "email": ""
     }
 }
 
