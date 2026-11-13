@@ -17,35 +17,35 @@ id	File Name	Genre	subcorpus	artist	title	release	duration	musicbrainzid	interne
 15	Isophonics_09_-_You_Never_Give_Me_Your_Money.mp3	Pop	challenging	The Beatles	You Never Give Me Your Money	Abbey Road	242.5730612	474546e9-0b30-4881-9269-c6c1c8bbf07b		
 16	Isophonics_CD1_-_14_-_Don't_Pass_Me_By.mp3	Pop	challenging	The Beatles	Don't Pass Me By	The Beatles	230.6089796	744d7528-025d-4bb4-8907-f01ae87f7327		
 17	Isophonics_CD2_-_06_-_Helter_Skelter.mp3	Pop	challenging	The Beatles	Helter Skelter	The Beatles	269.844898	744d7528-025d-4bb4-8907-f01ae87f7327		
-18	SALAMI_12.mp3	Pop	challenging	Cowgirl	Cowgirl	Live at ABC on 2008-04-25	444.5779592			
-19	SALAMI_20.mp3	Jazz & Blues	challenging	Jordi Savall	Tombeau pour Mr de Sainte Colombe	Tous les matins du monde	431.9608163	7095c7d6-6419-4067-bace-cac5d513eea8		
-20	SALAMI_68.mp3	Classical	challenging	Vladimir Horowitz	Sonata in F minor, K 466 (L118)	The Original Jacket Collection	297.8742857	5c51f47c-8169-4221-aab0-848ad04aef96		
-21	SALAMI_78.mp3	Classical	challenging	Husky Pants and the Rail	Freight Train	Live at Market Cross Pub on 2010-01-22	399.2816327		http://www.archive.org/download/hpr2010-01-22/hpr2010-01-22d1t01_vbr.mp3	
-22	SALAMI_108.mp3	Classical	challenging	Jonathan Scales Fourchestra	jonscales20090423t03flac	Live at Double Door Inn on 2009-04-23	550.2955102		http://www.archive.org/download/jonscales2009-04-23.flacf16/jonscales2009-04-23t03_vbr.mp3	
-23	SALAMI_114.mp3	Classical	challenging	Sarah Mclachlan	Mercy	Solace	262.3216327	64819d41-172b-4e93-a27f-39ac971ec4f9		
-24	SALAMI_164.mp3	Classical	challenging	Mark Bilyeu	Duncan and Brady	Live at The Record Bar on 2006-02-01	209.8155102		http://www.archive.org/download/markbilyeu2006-02-01.shnf/markbilyeu2006-02-01d1t09_vbr.mp3	
-25	SALAMI_278.mp3	Classical	challenging	Rumpke Mountain Boys	rumpkemb032808set2t02flac	Live at Japers on 2008-03-28	373.4465306		http://www.archive.org/download/rumpkemb2008-03-28/rumpkemb032808set2t02_vbr.mp3	
-26	SALAMI_286.mp3	Classical	challenging	Zindu	Night Light	Live at Winston's on 2005-02-26	574.6416327		http://www.archive.org/download/zindu2005-02-26.flac/zindu2005-02-26t05_vbr.mp3	
-27	SALAMI_302.mp3	Classical	challenging	Takao Nagai Trio	Abyss (Piano Trio)		341.3681633			
-28	SALAMI_308.mp3	Country	challenging	Alvaro Cassuto	Symphony No. 39 In E-Flat Major, K. 543. Adagio-Allegro	Mozart: Symphonies Nos. 39 & 40	564.7673469			
-29	SALAMI_444.mp3	Jazz & Blues	challenging	Buddy Guy	Trouble Blues	Slippin' In	178.3640816	3bac28fe-086f-45c9-aa70-cf3d8b2808af		
-30	SALAMI_458.mp3	Jazz & Blues	challenging	Tulio Serafin	Cavalleria Rusticana-Intermezzo	Mascagni: Caballeria rusticana - Leoncaballo: Pegliacci	240.0653061	5f0416a1-9fe3-4ca6-b7f3-8f4c3b732f6a		
-31	SALAMI_478.mp3	Jazz & Blues	challenging		Gehimes Flu stern Hier Und Dort	Compilation	251.0628571			
-32	SALAMI_538.mp3	Folk	challenging	Nobuko Imai; Roland Pontinen	Fantasia cromatica in D minor, BWV 903 (arr. Zoltan Kodaly)	Viola Bouquet	458.0571429	b4466eda-3412-4e99-ac83-e76ef63e367e		
-33	SALAMI_542.mp3	Folk	challenging	Nathan	The Wind	Key Principles	282.6710204	31c00f0f-027f-4830-b89d-afb9b9b7e011		
-34	SALAMI_546.mp3	Folk	challenging	Stan Getz	My Funny Valentine	The Revival of the Jazz	490.7885714	3d025770-ba6b-4521-932a-9eba9f24527c		
-35	SALAMI_584.mp3	Jazz & Blues	challenging	Sidney Bechet	Summertime	The Best of Sidney Bechet	254.197551	ae61e2a9-706d-4df8-9559-d625a8e4c179		
-36	SALAMI_728.mp3	World	challenging	Herbie Hancock	A Tribute to Someone	My Point of View	525.0612245	dbd1e929-153d-4bc7-8d90-161852e80bda		
-37	SALAMI_812.mp3	World	simple	Kimya Dawson	Sleep (Instrumental)	Juno	52.79346939	a9024273-8845-47d8-a411-917e311c8c0d		
-38	SALAMI_830.mp3	World	challenging	The Last Town Chorus	Modern Love	Wire Waltz	266.6057143	e06c0ddc-6a85-4be3-9cde-1e8c34eda834		
-39	SALAMI_838.mp3	World	challenging		Tear in my Beer		209.5281633			
-40	SALAMI_876.mp3	World	challenging	Maceo Parker	Over the Rainbow	Roots Revisited	256.0261224	7d177a6b-b4c1-4627-a3b1-87eaf2be8971		
-41	SALAMI_940.mp3	World	challenging	Quarteto Italiano	Ravel: String Quartet in F Major, M.35-3. Tres Lent	Ravel: String Quartet; Violin sonata; Piano Trio	544.0522449			
-42	SALAMI_944.mp3	World	challenging	Issa Bagayogo	Timbuktu	Timbuktu	348.682449	c21b1db6-5c03-490d-b23c-ca9ffacf2491		
-43	SALAMI_1072.mp3	Live Music	challenging	Steven Dann, Bruce Vogt	Sonata For Viola & Piano - Impetuoso	A Portrait of the Viola	468.1404082			
-44	SALAMI_1170.mp3	Live Music	challenging	Orquesta Original de Manzanillo	A La Hora Que Me Llamen Voy	Orquesta Original de Manzanillo	268.5126531	b317d00e-2e89-48a6-b946-bba716b1b079		
-45	SALAMI_1198.mp3	Live Music	challenging		Plamina___Stara_Planina		321.2277551			
-46	SALAMI_1240.mp3	Live Music	challenging	Paco de Lucia	Mi Nino Curro	Sus 50 mejores canciones (disc 3)	213.1330612	c94e58d9-9654-45ef-b448-68035911e1bd		
-47	SALAMI_1324.mp3	Live Music	challenging		Ramona		203.2587755			
-48	SALAMI_1482.mp3	Live Music	challenging	Astor Piazzolla	Adios Nonino		419.5004082			
-49	SALAMI_1562.mp3	Jazz & Blues	challenging	Boone Creek	Drifting Too Far From The Shore	The Stained Glass Hour, Bluegrass and Old Timey Gospel Music	240.0653061	f6ef2d08-1128-42fc-8a58-409afc0fa8db		
+18	SALAMI_12.mp3	Pop	challenging	Sarah Mclachlan	Mercy	Solace	262.3216327	64819d41-172b-4e93-a27f-39ac971ec4f9		
+19	SALAMI_20.mp3	Jazz & Blues	challenging	Buddy Guy	Trouble Blues	Slippin' In	178.3640816	3bac28fe-086f-45c9-aa70-cf3d8b2808af		
+20	SALAMI_68.mp3	Classical	challenging	Quarteto Italiano	Ravel: String Quartet in F Major, M.35-3. Tres Lent	Ravel: String Quartet; Violin sonata; Piano Trio	544.0522449			
+21	SALAMI_78.mp3	Classical	challenging	Steven Dann, Bruce Vogt	Sonata For Viola & Piano - Impetuoso	A Portrait of the Viola	468.1404082			
+22	SALAMI_108.mp3	Classical	challenging	Jordi Savall	Tombeau pour Mr de Sainte Colombe	Tous les matins du monde	431.9608163	7095c7d6-6419-4067-bace-cac5d513eea8		
+23	SALAMI_114.mp3	Classical	challenging	Vladimir Horowitz	Sonata in F minor, K 466 (L118)	The Original Jacket Collection	297.8742857	5c51f47c-8169-4221-aab0-848ad04aef96		
+24	SALAMI_164.mp3	Classical	challenging	Alvaro Cassuto	Symphony No. 39 In E-Flat Major, K. 543. Adagio-Allegro	Mozart: Symphonies Nos. 39 & 40	564.7673469			
+25	SALAMI_278.mp3	Classical	challenging	Tulio Serafin	Cavalleria Rusticana-Intermezzo	Mascagni: Caballeria rusticana - Leoncaballo: Pegliacci	240.0653061	5f0416a1-9fe3-4ca6-b7f3-8f4c3b732f6a		
+26	SALAMI_286.mp3	Classical	challenging		Gehimes Flu stern Hier Und Dort	Compilation	251.0628571			
+27	SALAMI_302.mp3	Classical	challenging	Nobuko Imai; Roland Pontinen	Fantasia cromatica in D minor, BWV 903 (arr. Zoltan Kodaly)	Viola Bouquet	458.0571429	b4466eda-3412-4e99-ac83-e76ef63e367e		
+28	SALAMI_308.mp3	Country	challenging	Nathan	The Wind	Key Principles	282.6710204	31c00f0f-027f-4830-b89d-afb9b9b7e011		
+29	SALAMI_444.mp3	Jazz & Blues	challenging	Stan Getz	My Funny Valentine	The Revival of the Jazz	490.7885714	3d025770-ba6b-4521-932a-9eba9f24527c		
+30	SALAMI_458.mp3	Jazz & Blues	challenging	Sidney Bechet	Summertime	The Best of Sidney Bechet	254.197551	ae61e2a9-706d-4df8-9559-d625a8e4c179		
+31	SALAMI_478.mp3	Jazz & Blues	challenging	Herbie Hancock	A Tribute to Someone	My Point of View	525.0612245	dbd1e929-153d-4bc7-8d90-161852e80bda		
+32	SALAMI_538.mp3	Folk	challenging	Kimya Dawson	Sleep (Instrumental)	Juno	52.79346939	a9024273-8845-47d8-a411-917e311c8c0d		
+33	SALAMI_542.mp3	Folk	challenging	The Last Town Chorus	Modern Love	Wire Waltz	266.6057143	e06c0ddc-6a85-4be3-9cde-1e8c34eda834		
+34	SALAMI_546.mp3	Folk	challenging		Tear in my Beer		209.5281633			
+35	SALAMI_584.mp3	Jazz & Blues	challenging	Maceo Parker	Over the Rainbow	Roots Revisited	256.0261224	7d177a6b-b4c1-4627-a3b1-87eaf2be8971		
+36	SALAMI_728.mp3	World	challenging	Issa Bagayogo	Timbuktu	Timbuktu	348.682449	c21b1db6-5c03-490d-b23c-ca9ffacf2491		
+37	SALAMI_812.mp3	World	simple	Orquesta Original de Manzanillo	A La Hora Que Me Llamen Voy	Orquesta Original de Manzanillo	268.5126531	b317d00e-2e89-48a6-b946-bba716b1b079		
+38	SALAMI_830.mp3	World	challenging		Plamina___Stara_Planina		321.2277551			
+39	SALAMI_838.mp3	World	challenging	Paco de Lucia	Mi Nino Curro	Sus 50 mejores canciones (disc 3)	213.1330612	c94e58d9-9654-45ef-b448-68035911e1bd		
+40	SALAMI_876.mp3	World	challenging		Ramona		203.2587755			
+41	SALAMI_940.mp3	World	challenging	Astor Piazzolla	Adios Nonino		419.5004082			
+42	SALAMI_944.mp3	World	challenging	Boone Creek	Drifting Too Far From The Shore	The Stained Glass Hour, Bluegrass and Old Timey Gospel Music	240.0653061	f6ef2d08-1128-42fc-8a58-409afc0fa8db		
+43	SALAMI_1072.mp3	Live Music	challenging	Cowgirl	Cowgirl	Live at ABC on 2008-04-25	444.5779592			
+44	SALAMI_1170.mp3	Live Music	challenging	Husky Pants and the Rail	Freight Train	Live at Market Cross Pub on 2010-01-22	399.2816327		http://www.archive.org/download/hpr2010-01-22/hpr2010-01-22d1t01_vbr.mp3	
+45	SALAMI_1198.mp3	Live Music	challenging	Jonathan Scales Fourchestra	jonscales20090423t03flac	Live at Double Door Inn on 2009-04-23	550.2955102		http://www.archive.org/download/jonscales2009-04-23.flacf16/jonscales2009-04-23t03_vbr.mp3	
+46	SALAMI_1240.mp3	Live Music	challenging	Mark Bilyeu	Duncan and Brady	Live at The Record Bar on 2006-02-01	209.8155102		http://www.archive.org/download/markbilyeu2006-02-01.shnf/markbilyeu2006-02-01d1t09_vbr.mp3	
+47	SALAMI_1324.mp3	Live Music	challenging	Rumpke Mountain Boys	rumpkemb032808set2t02flac	Live at Japers on 2008-03-28	373.4465306		http://www.archive.org/download/rumpkemb2008-03-28/rumpkemb032808set2t02_vbr.mp3	
+48	SALAMI_1482.mp3	Live Music	challenging	Zindu	Night Light	Live at Winston's on 2005-02-26	574.6416327		http://www.archive.org/download/zindu2005-02-26.flac/zindu2005-02-26t05_vbr.mp3	
+49	SALAMI_1562.mp3	Jazz & Blues	challenging	Takao Nagai Trio	Abyss (Piano Trio)		341.3681633			

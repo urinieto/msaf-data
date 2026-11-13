@@ -93,10 +93,16 @@
           "time": 169.505669
         }, 
         {
-          "duration": 20.146213, 
+          "duration": 21.966077000000002, 
           "confidence": 1.0, 
           "value": "e'", 
           "time": 189.38195000000002
+        }, 
+        {
+          "duration": 1.785034, 
+          "confidence": 0.0, 
+          "value": "zzzzz", 
+          "time": 211.348027
         }
       ]
     }, 
@@ -153,10 +159,16 @@
           "time": 140.341406
         }, 
         {
-          "duration": 40.022494, 
+          "duration": 41.842358000000004, 
           "confidence": 1.0, 
           "value": "E", 
           "time": 169.505669
+        }, 
+        {
+          "duration": 1.785034, 
+          "confidence": 0.0, 
+          "value": "ZZZZZ", 
+          "time": 211.348027
         }
       ]
     }, 
@@ -309,7 +321,7 @@
           "time": 205.798458
         }, 
         {
-          "duration": 2.0346480000000002, 
+          "duration": 5.639546, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 207.493515
@@ -405,7 +417,7 @@
           "time": 205.798458
         }, 
         {
-          "duration": 2.0346480000000002, 
+          "duration": 5.639546, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 207.493515
@@ -735,7 +747,7 @@
           "time": 198.484172
         }, 
         {
-          "duration": 4.449524, 
+          "duration": 8.054422, 
           "confidence": 1.0, 
           "value": "end", 
           "time": 205.078639
@@ -813,7 +825,7 @@
           "time": 143.08136100000002
         }, 
         {
-          "duration": 4.449524, 
+          "duration": 8.054422, 
           "confidence": 1.0, 
           "value": "END", 
           "time": 205.078639
@@ -909,7 +921,7 @@
           "time": 191.88970500000002
         }, 
         {
-          "duration": 3.748571, 
+          "duration": 7.3534690000000005, 
           "confidence": 1.0, 
           "value": "k", 
           "time": 205.779592
@@ -945,7 +957,7 @@
           "time": 0.0
         }, 
         {
-          "duration": 209.269841, 
+          "duration": 212.874739, 
           "confidence": 1.0, 
           "value": "A", 
           "time": 0.258322
@@ -1029,7 +1041,7 @@
           "time": 191.95936500000002
         }, 
         {
-          "duration": 2.731247, 
+          "duration": 6.336145, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 206.796916
@@ -1089,7 +1101,7 @@
           "time": 161.192925
         }, 
         {
-          "duration": 2.731247, 
+          "duration": 6.336145, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 206.796916
@@ -1164,13 +1176,22 @@
           "time": 140.341406
         }, 
         {
-          "duration": 40.022494, 
+          "duration": 41.842358000000004, 
           "confidence": 1.0, 
           "value": {
             "label": "E", 
             "level": 0
           }, 
           "time": 169.505669
+        }, 
+        {
+          "duration": 1.785034, 
+          "confidence": 0.0, 
+          "value": {
+            "label": "ZZZZZ", 
+            "level": 0
+          }, 
+          "time": 211.348027
         }, 
         {
           "duration": 0.13932, 
@@ -1272,13 +1293,22 @@
           "time": 169.505669
         }, 
         {
-          "duration": 20.146213, 
+          "duration": 21.966077000000002, 
           "confidence": 1.0, 
           "value": {
             "label": "e'", 
             "level": 1
           }, 
           "time": 189.38195000000002
+        }, 
+        {
+          "duration": 1.785034, 
+          "confidence": 0.0, 
+          "value": {
+            "label": "zzzzz", 
+            "level": 1
+          }, 
+          "time": 211.348027
         }
       ]
     }, 
@@ -1377,7 +1407,7 @@
           "time": 143.08136100000002
         }, 
         {
-          "duration": 4.449524, 
+          "duration": 8.054422, 
           "confidence": 1.0, 
           "value": {
             "label": "END", 
@@ -1836,7 +1866,7 @@
           "time": 198.484172
         }, 
         {
-          "duration": 4.449524, 
+          "duration": 8.054422, 
           "confidence": 1.0, 
           "value": {
             "label": "end", 
@@ -1914,7 +1944,7 @@
           "time": 161.192925
         }, 
         {
-          "duration": 2.731247, 
+          "duration": 6.336145, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -2004,7 +2034,7 @@
           "time": 191.95936500000002
         }, 
         {
-          "duration": 2.731247, 
+          "duration": 6.336145, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -2046,7 +2076,7 @@
           "time": 0.0
         }, 
         {
-          "duration": 209.269841, 
+          "duration": 212.874739, 
           "confidence": 1.0, 
           "value": {
             "label": "A", 
@@ -2154,7 +2184,7 @@
           "time": 191.88970500000002
         }, 
         {
-          "duration": 3.748571, 
+          "duration": 7.3534690000000005, 
           "confidence": 1.0, 
           "value": {
             "label": "k", 
@@ -2286,7 +2316,7 @@
           "time": 205.798458
         }, 
         {
-          "duration": 2.0346480000000002, 
+          "duration": 5.639546, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -2484,7 +2514,7 @@
           "time": 205.798458
         }, 
         {
-          "duration": 2.0346480000000002, 
+          "duration": 5.639546, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -2497,10 +2527,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "Tear in my Beer", 
-    "identifiers": {}, 
-    "release": "", 
-    "duration": 209.52816330000002, 
-    "artist": ""
+    "title": "Mi Nino Curro", 
+    "identifiers": {
+      "musicbrainzid": "c94e58d9-9654-45ef-b448-68035911e1bd"
+    }, 
+    "release": "Sus 50 mejores canciones (disc 3)", 
+    "duration": 213.1330612, 
+    "artist": "Paco de Lucia"
   }
 }

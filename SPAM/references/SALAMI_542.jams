@@ -123,7 +123,7 @@
           "time": 250.40399100000002
         }, 
         {
-          "duration": 17.475918, 
+          "duration": 1.410612, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 265.195102
@@ -195,7 +195,7 @@
           "time": 217.54775500000002
         }, 
         {
-          "duration": 17.475918, 
+          "duration": 1.410612, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 265.195102
@@ -561,7 +561,7 @@
           "time": 263.10530600000004
         }, 
         {
-          "duration": 18.683356, 
+          "duration": 2.61805, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 263.987664
@@ -669,7 +669,7 @@
           "time": 263.10530600000004
         }, 
         {
-          "duration": 18.683356, 
+          "duration": 2.61805, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 263.987664
@@ -783,16 +783,10 @@
           "time": 238.19029500000002
         }, 
         {
-          "duration": 3.715193, 
+          "duration": 3.7093870000000004, 
           "confidence": 1.0, 
           "value": "end", 
           "time": 262.89632700000004
-        }, 
-        {
-          "duration": 16.0595, 
-          "confidence": 0.0, 
-          "value": "zzzzz", 
-          "time": 266.61152000000004
         }
       ]
     }, 
@@ -849,7 +843,7 @@
           "time": 205.26439900000003
         }, 
         {
-          "duration": 19.774693000000003, 
+          "duration": 3.7093870000000004, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 262.89632700000004
@@ -981,7 +975,7 @@
           "time": 250.38367300000002
         }, 
         {
-          "duration": 18.964898, 
+          "duration": 2.899592, 
           "confidence": 1.0, 
           "value": "silence", 
           "time": 263.706122
@@ -1059,7 +1053,7 @@
           "time": 205.322449
         }, 
         {
-          "duration": 18.964898, 
+          "duration": 2.899592, 
           "confidence": 1.0, 
           "value": "SILENCE", 
           "time": 263.706122
@@ -1125,7 +1119,7 @@
           "time": 217.54775500000002
         }, 
         {
-          "duration": 18.799455000000002, 
+          "duration": 2.7341490000000004, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 263.87156500000003
@@ -1185,7 +1179,7 @@
           "time": 217.54775500000002
         }, 
         {
-          "duration": 18.799455000000002, 
+          "duration": 2.7341490000000004, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 263.87156500000003
@@ -1278,7 +1272,7 @@
           "time": 217.54775500000002
         }, 
         {
-          "duration": 17.475918, 
+          "duration": 1.410612, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -1431,7 +1425,7 @@
           "time": 250.40399100000002
         }, 
         {
-          "duration": 17.475918, 
+          "duration": 1.410612, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -1509,7 +1503,7 @@
           "time": 205.26439900000003
         }, 
         {
-          "duration": 19.774693000000003, 
+          "duration": 3.7093870000000004, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -1644,22 +1638,13 @@
           "time": 238.19029500000002
         }, 
         {
-          "duration": 3.715193, 
+          "duration": 3.7093870000000004, 
           "confidence": 1.0, 
           "value": {
             "label": "end", 
             "level": 1
           }, 
           "time": 262.89632700000004
-        }, 
-        {
-          "duration": 16.0595, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "zzzzz", 
-            "level": 1
-          }, 
-          "time": 266.61152000000004
         }
       ]
     }, 
@@ -1731,7 +1716,7 @@
           "time": 217.54775500000002
         }, 
         {
-          "duration": 18.799455000000002, 
+          "duration": 2.7341490000000004, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -1794,7 +1779,7 @@
           "time": 217.54775500000002
         }, 
         {
-          "duration": 18.799455000000002, 
+          "duration": 2.7341490000000004, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -1899,7 +1884,7 @@
           "time": 205.322449
         }, 
         {
-          "duration": 18.964898, 
+          "duration": 2.899592, 
           "confidence": 1.0, 
           "value": {
             "label": "SILENCE", 
@@ -2061,7 +2046,7 @@
           "time": 250.38367300000002
         }, 
         {
-          "duration": 18.964898, 
+          "duration": 2.899592, 
           "confidence": 1.0, 
           "value": {
             "label": "silence", 
@@ -2211,7 +2196,7 @@
           "time": 263.10530600000004
         }, 
         {
-          "duration": 18.683356, 
+          "duration": 2.61805, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -2724,7 +2709,7 @@
           "time": 263.10530600000004
         }, 
         {
-          "duration": 18.683356, 
+          "duration": 2.61805, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -2737,12 +2722,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "The Wind", 
+    "title": "Modern Love", 
     "identifiers": {
-      "musicbrainzid": "31c00f0f-027f-4830-b89d-afb9b9b7e011"
+      "musicbrainzid": "e06c0ddc-6a85-4be3-9cde-1e8c34eda834"
     }, 
-    "release": "Key Principles", 
-    "duration": 282.6710204, 
-    "artist": "Nathan"
+    "release": "Wire Waltz", 
+    "duration": 266.6057143, 
+    "artist": "The Last Town Chorus"
   }
 }

@@ -93,7 +93,7 @@
           "time": 207.354195
         }, 
         {
-          "duration": 141.45596400000002, 
+          "duration": 8.074739000000001, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 231.99056700000003
@@ -147,7 +147,7 @@
           "time": 98.824127
         }, 
         {
-          "duration": 141.45596400000002, 
+          "duration": 8.074739000000001, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 231.99056700000003
@@ -327,7 +327,7 @@
           "time": 231.03854900000002
         }, 
         {
-          "duration": 141.01478500000002, 
+          "duration": 7.63356, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 232.431746
@@ -387,7 +387,7 @@
           "time": 231.03854900000002
         }, 
         {
-          "duration": 141.01478500000002, 
+          "duration": 7.63356, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 232.431746
@@ -483,7 +483,7 @@
           "time": 200.713288
         }, 
         {
-          "duration": 140.991565, 
+          "duration": 7.610340000000001, 
           "confidence": 1.0, 
           "value": "silence", 
           "time": 232.454966
@@ -525,7 +525,7 @@
           "time": 98.847347
         }, 
         {
-          "duration": 140.991565, 
+          "duration": 7.610340000000001, 
           "confidence": 1.0, 
           "value": "SILENCE", 
           "time": 232.454966
@@ -663,7 +663,7 @@
           "time": 216.642177
         }, 
         {
-          "duration": 140.271746, 
+          "duration": 6.890521000000001, 
           "confidence": 1.0, 
           "value": "silence", 
           "time": 233.174785
@@ -717,7 +717,7 @@
           "time": 202.02449000000001
         }, 
         {
-          "duration": 140.271746, 
+          "duration": 6.890521000000001, 
           "confidence": 1.0, 
           "value": "SILENCE", 
           "time": 233.174785
@@ -795,7 +795,7 @@
           "time": 201.59564600000002
         }, 
         {
-          "duration": 141.38630500000002, 
+          "duration": 8.005080000000001, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 232.06022600000003
@@ -843,7 +843,7 @@
           "time": 98.40616800000001
         }, 
         {
-          "duration": 141.38630500000002, 
+          "duration": 8.005080000000001, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 232.06022600000003
@@ -909,7 +909,7 @@
           "time": 98.824127
         }, 
         {
-          "duration": 141.45596400000002, 
+          "duration": 8.074739000000001, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -1017,7 +1017,7 @@
           "time": 207.354195
         }, 
         {
-          "duration": 141.45596400000002, 
+          "duration": 8.074739000000001, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -1068,7 +1068,7 @@
           "time": 98.847347
         }, 
         {
-          "duration": 140.991565, 
+          "duration": 7.610340000000001, 
           "confidence": 1.0, 
           "value": {
             "label": "SILENCE", 
@@ -1176,7 +1176,7 @@
           "time": 200.713288
         }, 
         {
-          "duration": 140.991565, 
+          "duration": 7.610340000000001, 
           "confidence": 1.0, 
           "value": {
             "label": "silence", 
@@ -1236,7 +1236,7 @@
           "time": 98.40616800000001
         }, 
         {
-          "duration": 141.38630500000002, 
+          "duration": 8.005080000000001, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -1317,7 +1317,7 @@
           "time": 201.59564600000002
         }, 
         {
-          "duration": 141.38630500000002, 
+          "duration": 8.005080000000001, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -1386,7 +1386,7 @@
           "time": 202.02449000000001
         }, 
         {
-          "duration": 140.271746, 
+          "duration": 6.890521000000001, 
           "confidence": 1.0, 
           "value": {
             "label": "SILENCE", 
@@ -1557,7 +1557,7 @@
           "time": 216.642177
         }, 
         {
-          "duration": 140.271746, 
+          "duration": 6.890521000000001, 
           "confidence": 1.0, 
           "value": {
             "label": "silence", 
@@ -1635,7 +1635,7 @@
           "time": 231.03854900000002
         }, 
         {
-          "duration": 141.01478500000002, 
+          "duration": 7.63356, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -1869,7 +1869,7 @@
           "time": 231.03854900000002
         }, 
         {
-          "duration": 141.01478500000002, 
+          "duration": 7.63356, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -1882,12 +1882,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "rumpkemb032808set2t02flac", 
+    "title": "Cavalleria Rusticana-Intermezzo", 
     "identifiers": {
-      "internet_archive_url": "http://www.archive.org/download/rumpkemb2008-03-28/rumpkemb032808set2t02_vbr.mp3"
+      "musicbrainzid": "5f0416a1-9fe3-4ca6-b7f3-8f4c3b732f6a"
     }, 
-    "release": "Live at Japers on 2008-03-28", 
-    "duration": 373.4465306, 
-    "artist": "Rumpke Mountain Boys"
+    "release": "Mascagni: Caballeria rusticana - Leoncaballo: Pegliacci", 
+    "duration": 240.0653061, 
+    "artist": "Tulio Serafin"
   }
 }

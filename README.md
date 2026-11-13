@@ -10,3 +10,11 @@ More specifically, the following datasets are available:
 * **SALAMI**: The Structural Analysis of Large Amounts of Music Information dataset.
 * **SPAM**: Structural Poly Annotations of Music, please read more [here](https://github.com/urinieto/msaf-data/tree/master/SPAM).
 * **Sargon**: A small dataset of 30 minutes of heavy metal music. It includes audio.
+
+License
+-------
+
+The code in this repository is released under the [MIT license](LICENSE).
+The datasets are subject to their own terms. In particular, the precomputed SPAM features are provided for
+non-commercial research purposes only (see [`SPAM/features/README.md`](SPAM/features/README.md)), and the
+copyrighted audio recordings that the annotations and features refer to are not covered by this repository's license.

@@ -57,7 +57,7 @@
           "time": 39.055964
         }, 
         {
-          "duration": 406.857143, 
+          "duration": 1.593469, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 51.2
@@ -111,7 +111,7 @@
           "time": 39.055964
         }, 
         {
-          "duration": 406.857143, 
+          "duration": 1.593469, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 51.2
@@ -333,7 +333,7 @@
           "time": 48.552925
         }, 
         {
-          "duration": 408.157461, 
+          "duration": 2.893787, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 49.899682000000006
@@ -399,7 +399,7 @@
           "time": 48.552925
         }, 
         {
-          "duration": 408.157461, 
+          "duration": 2.893787, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 49.899682000000006
@@ -447,7 +447,7 @@
           "time": 26.679728
         }, 
         {
-          "duration": 419.024399, 
+          "duration": 13.760725, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 39.032744
@@ -489,7 +489,7 @@
           "time": 14.117732
         }, 
         {
-          "duration": 419.024399, 
+          "duration": 13.760725, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 39.032744
@@ -621,7 +621,7 @@
           "time": 48.204626000000005
         }, 
         {
-          "duration": 406.973243, 
+          "duration": 1.7095690000000001, 
           "confidence": 1.0, 
           "value": "silence", 
           "time": 51.0839
@@ -681,7 +681,7 @@
           "time": 39.102404
         }, 
         {
-          "duration": 406.973243, 
+          "duration": 1.7095690000000001, 
           "confidence": 1.0, 
           "value": "SILENCE", 
           "time": 51.0839
@@ -741,7 +741,7 @@
           "time": 39.148844000000004
         }, 
         {
-          "duration": 407.484081, 
+          "duration": 2.2204070000000002, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 50.573062
@@ -795,7 +795,7 @@
           "time": 39.148844000000004
         }, 
         {
-          "duration": 407.484081, 
+          "duration": 2.2204070000000002, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 50.573062
@@ -861,7 +861,7 @@
           "time": 39.055964
         }, 
         {
-          "duration": 406.857143, 
+          "duration": 1.593469, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -915,7 +915,7 @@
           "time": 39.055964
         }, 
         {
-          "duration": 406.857143, 
+          "duration": 1.593469, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -966,7 +966,7 @@
           "time": 14.117732
         }, 
         {
-          "duration": 419.024399, 
+          "duration": 13.760725, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -1002,7 +1002,7 @@
           "time": 26.679728
         }, 
         {
-          "duration": 419.024399, 
+          "duration": 13.760725, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -1071,7 +1071,7 @@
           "time": 39.148844000000004
         }, 
         {
-          "duration": 407.484081, 
+          "duration": 2.2204070000000002, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -1125,7 +1125,7 @@
           "time": 39.148844000000004
         }, 
         {
-          "duration": 407.484081, 
+          "duration": 2.2204070000000002, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -1203,7 +1203,7 @@
           "time": 39.102404
         }, 
         {
-          "duration": 406.973243, 
+          "duration": 1.7095690000000001, 
           "confidence": 1.0, 
           "value": {
             "label": "SILENCE", 
@@ -1365,7 +1365,7 @@
           "time": 48.204626000000005
         }, 
         {
-          "duration": 406.973243, 
+          "duration": 1.7095690000000001, 
           "confidence": 1.0, 
           "value": {
             "label": "silence", 
@@ -1452,7 +1452,7 @@
           "time": 48.552925
         }, 
         {
-          "duration": 408.157461, 
+          "duration": 2.893787, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -1749,7 +1749,7 @@
           "time": 48.552925
         }, 
         {
-          "duration": 408.157461, 
+          "duration": 2.893787, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -1762,12 +1762,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "Fantasia cromatica in D minor, BWV 903 (arr. Zoltan Kodaly)", 
+    "title": "Sleep (Instrumental)", 
     "identifiers": {
-      "musicbrainzid": "b4466eda-3412-4e99-ac83-e76ef63e367e"
+      "musicbrainzid": "a9024273-8845-47d8-a411-917e311c8c0d"
     }, 
-    "release": "Viola Bouquet", 
-    "duration": 458.0571429, 
-    "artist": "Nobuko Imai; Roland Pontinen"
+    "release": "Juno", 
+    "duration": 52.79346939, 
+    "artist": "Kimya Dawson"
   }
 }

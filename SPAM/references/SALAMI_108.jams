@@ -123,7 +123,7 @@
           "time": 400.28879800000004
         }, 
         {
-          "duration": 126.949297, 
+          "duration": 8.614603, 
           "confidence": 1.0, 
           "value": "silence", 
           "time": 423.34621300000003
@@ -189,7 +189,7 @@
           "time": 352.641451
         }, 
         {
-          "duration": 126.949297, 
+          "duration": 8.614603, 
           "confidence": 1.0, 
           "value": "SILENCE", 
           "time": 423.34621300000003
@@ -375,7 +375,7 @@
           "time": 420.37405900000005
         }, 
         {
-          "duration": 118.96163200000001, 
+          "duration": 0.626938, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 431.333878
@@ -453,7 +453,7 @@
           "time": 381.828934
         }, 
         {
-          "duration": 118.96163200000001, 
+          "duration": 0.626938, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 431.333878
@@ -585,16 +585,10 @@
           "time": 381.06122400000004
         }, 
         {
-          "duration": 11.428571000000002, 
+          "duration": 11.324081000000001, 
           "confidence": 1.0, 
           "value": "end", 
           "time": 420.63673500000004
-        }, 
-        {
-          "duration": 118.230204, 
-          "confidence": 0.0, 
-          "value": "zzzzz", 
-          "time": 432.065306
         }
       ]
     }, 
@@ -651,7 +645,7 @@
           "time": 260.832653
         }, 
         {
-          "duration": 129.65877500000002, 
+          "duration": 11.324081000000001, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 420.63673500000004
@@ -813,7 +807,7 @@
           "time": 400.32653100000005
         }, 
         {
-          "duration": 125.08734700000001, 
+          "duration": 6.7526530000000005, 
           "confidence": 1.0, 
           "value": "silence", 
           "time": 425.208163
@@ -897,7 +891,7 @@
           "time": 329.76326500000005
         }, 
         {
-          "duration": 125.08734700000001, 
+          "duration": 6.7526530000000005, 
           "confidence": 1.0, 
           "value": "SILENCE", 
           "time": 425.208163
@@ -987,7 +981,7 @@
           "time": 352.293152
         }, 
         {
-          "duration": 125.37034000000001, 
+          "duration": 7.035646000000001, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 424.92517000000004
@@ -1077,16 +1071,10 @@
           "time": 379.32117900000003
         }, 
         {
-          "duration": 62.020499, 
+          "duration": 30.046621000000002, 
           "confidence": 1.0, 
           "value": "D", 
           "time": 401.914195
-        }, 
-        {
-          "duration": 86.360816, 
-          "confidence": 0.0, 
-          "value": "ZZZZZ", 
-          "time": 463.93469400000004
         }
       ]
     }, 
@@ -1167,7 +1155,7 @@
           "time": 352.641451
         }, 
         {
-          "duration": 126.949297, 
+          "duration": 8.614603, 
           "confidence": 1.0, 
           "value": {
             "label": "SILENCE", 
@@ -1320,7 +1308,7 @@
           "time": 400.28879800000004
         }, 
         {
-          "duration": 126.949297, 
+          "duration": 8.614603, 
           "confidence": 1.0, 
           "value": {
             "label": "silence", 
@@ -1398,7 +1386,7 @@
           "time": 260.832653
         }, 
         {
-          "duration": 129.65877500000002, 
+          "duration": 11.324081000000001, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -1560,22 +1548,13 @@
           "time": 381.06122400000004
         }, 
         {
-          "duration": 11.428571000000002, 
+          "duration": 11.324081000000001, 
           "confidence": 1.0, 
           "value": {
             "label": "end", 
             "level": 1
           }, 
           "time": 420.63673500000004
-        }, 
-        {
-          "duration": 118.230204, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "zzzzz", 
-            "level": 1
-          }, 
-          "time": 432.065306
         }
       ]
     }, 
@@ -1683,7 +1662,7 @@
           "time": 329.76326500000005
         }, 
         {
-          "duration": 125.08734700000001, 
+          "duration": 6.7526530000000005, 
           "confidence": 1.0, 
           "value": {
             "label": "SILENCE", 
@@ -1890,7 +1869,7 @@
           "time": 400.32653100000005
         }, 
         {
-          "duration": 125.08734700000001, 
+          "duration": 6.7526530000000005, 
           "confidence": 1.0, 
           "value": {
             "label": "silence", 
@@ -1995,7 +1974,7 @@
           "time": 381.828934
         }, 
         {
-          "duration": 118.96163200000001, 
+          "duration": 0.626938, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -2238,7 +2217,7 @@
           "time": 420.37405900000005
         }, 
         {
-          "duration": 118.96163200000001, 
+          "duration": 0.626938, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -2251,12 +2230,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "jonscales20090423t03flac", 
+    "title": "Tombeau pour Mr de Sainte Colombe", 
     "identifiers": {
-      "internet_archive_url": "http://www.archive.org/download/jonscales2009-04-23.flacf16/jonscales2009-04-23t03_vbr.mp3"
+      "musicbrainzid": "7095c7d6-6419-4067-bace-cac5d513eea8"
     }, 
-    "release": "Live at Double Door Inn on 2009-04-23", 
-    "duration": 550.2955102000001, 
-    "artist": "Jonathan Scales Fourchestra"
+    "release": "Tous les matins du monde", 
+    "duration": 431.9608163, 
+    "artist": "Jordi Savall"
   }
 }

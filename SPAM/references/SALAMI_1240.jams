@@ -165,7 +165,7 @@
           "time": 201.35183700000002
         }, 
         {
-          "duration": 3.5787750000000003, 
+          "duration": 0.261224, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 209.55428600000002
@@ -381,7 +381,7 @@
           "time": 201.35183700000002
         }, 
         {
-          "duration": 3.5787750000000003, 
+          "duration": 0.261224, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 209.55428600000002
@@ -531,16 +531,10 @@
           "time": 187.59401400000002
         }, 
         {
-          "duration": 0.20898000000000003, 
+          "duration": 0.06966, 
           "confidence": 1.0, 
           "value": "END", 
           "time": 209.74585000000002
-        }, 
-        {
-          "duration": 3.1782310000000003, 
-          "confidence": 0.0, 
-          "value": "ZZZZZ", 
-          "time": 209.95483000000002
         }
       ]
     }, 
@@ -897,16 +891,10 @@
           "time": 200.73650800000001
         }, 
         {
-          "duration": 0.20898000000000003, 
+          "duration": 0.06966, 
           "confidence": 1.0, 
           "value": "end", 
           "time": 209.74585000000002
-        }, 
-        {
-          "duration": 3.1782310000000003, 
-          "confidence": 0.0, 
-          "value": "zzzzz", 
-          "time": 209.95483000000002
         }
       ]
     }, 
@@ -1005,7 +993,7 @@
           "time": 188.081633
         }, 
         {
-          "duration": 12.442993000000001, 
+          "duration": 9.125442000000001, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 200.69006800000002
@@ -1351,12 +1339,6 @@
           "confidence": 1.0, 
           "value": "z", 
           "time": 200.69006800000002
-        }, 
-        {
-          "duration": 3.3175510000000004, 
-          "confidence": 0.0, 
-          "value": "zzzzz", 
-          "time": 209.81551000000002
         }
       ]
     }, 
@@ -1461,16 +1443,10 @@
           "time": 193.893878
         }, 
         {
-          "duration": 9.559184, 
+          "duration": 9.586939000000001, 
           "confidence": 1.0, 
           "value": "Z", 
           "time": 200.22857100000002
-        }, 
-        {
-          "duration": 3.3453060000000003, 
-          "confidence": 0.0, 
-          "value": "ZZZZZ", 
-          "time": 209.787755
         }
       ]
     }, 
@@ -1701,16 +1677,10 @@
           "time": 193.893878
         }, 
         {
-          "duration": 9.559184, 
+          "duration": 9.586939000000001, 
           "confidence": 1.0, 
           "value": "z", 
           "time": 200.22857100000002
-        }, 
-        {
-          "duration": 3.3453060000000003, 
-          "confidence": 0.0, 
-          "value": "zzzzz", 
-          "time": 209.787755
         }
       ]
     }, 
@@ -1779,16 +1749,10 @@
           "time": 173.24408200000002
         }, 
         {
-          "duration": 8.544943, 
+          "duration": 8.591383, 
           "confidence": 1.0, 
           "value": "Z", 
           "time": 201.224127
-        }, 
-        {
-          "duration": 3.3639910000000004, 
-          "confidence": 0.0, 
-          "value": "ZZZZZ", 
-          "time": 209.76907
         }
       ]
     }, 
@@ -1863,16 +1827,10 @@
           "time": 173.24408200000002
         }, 
         {
-          "duration": 8.544943, 
+          "duration": 8.591383, 
           "confidence": 1.0, 
           "value": "z", 
           "time": 201.224127
-        }, 
-        {
-          "duration": 3.3639910000000004, 
-          "confidence": 0.0, 
-          "value": "zzzzz", 
-          "time": 209.76907
         }
       ]
     }, 
@@ -2106,7 +2064,7 @@
           "time": 201.35183700000002
         }, 
         {
-          "duration": 3.5787750000000003, 
+          "duration": 0.261224, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -2394,7 +2352,7 @@
           "time": 201.35183700000002
         }, 
         {
-          "duration": 3.5787750000000003, 
+          "duration": 0.261224, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -2535,7 +2493,7 @@
           "time": 188.081633
         }, 
         {
-          "duration": 12.442993000000001, 
+          "duration": 9.125442000000001, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -3019,15 +2977,6 @@
             "level": 1
           }, 
           "time": 200.69006800000002
-        }, 
-        {
-          "duration": 3.3175510000000004, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "zzzzz", 
-            "level": 1
-          }, 
-          "time": 209.81551000000002
         }
       ]
     }, 
@@ -3117,22 +3066,13 @@
           "time": 173.24408200000002
         }, 
         {
-          "duration": 8.544943, 
+          "duration": 8.591383, 
           "confidence": 1.0, 
           "value": {
             "label": "Z", 
             "level": 0
           }, 
           "time": 201.224127
-        }, 
-        {
-          "duration": 3.3639910000000004, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "ZZZZZ", 
-            "level": 0
-          }, 
-          "time": 209.76907
         }, 
         {
           "duration": 6.757007000000001, 
@@ -3207,22 +3147,13 @@
           "time": 173.24408200000002
         }, 
         {
-          "duration": 8.544943, 
+          "duration": 8.591383, 
           "confidence": 1.0, 
           "value": {
             "label": "z", 
             "level": 1
           }, 
           "time": 201.224127
-        }, 
-        {
-          "duration": 3.3639910000000004, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "zzzzz", 
-            "level": 1
-          }, 
-          "time": 209.76907
         }
       ]
     }, 
@@ -3366,22 +3297,13 @@
           "time": 193.893878
         }, 
         {
-          "duration": 9.559184, 
+          "duration": 9.586939000000001, 
           "confidence": 1.0, 
           "value": {
             "label": "Z", 
             "level": 0
           }, 
           "time": 200.22857100000002
-        }, 
-        {
-          "duration": 3.3453060000000003, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "ZZZZZ", 
-            "level": 0
-          }, 
-          "time": 209.787755
         }, 
         {
           "duration": 0.417959, 
@@ -3690,22 +3612,13 @@
           "time": 193.893878
         }, 
         {
-          "duration": 9.559184, 
+          "duration": 9.586939000000001, 
           "confidence": 1.0, 
           "value": {
             "label": "z", 
             "level": 1
           }, 
           "time": 200.22857100000002
-        }, 
-        {
-          "duration": 3.3453060000000003, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "zzzzz", 
-            "level": 1
-          }, 
-          "time": 209.787755
         }
       ]
     }, 
@@ -3912,22 +3825,13 @@
           "time": 187.59401400000002
         }, 
         {
-          "duration": 0.20898000000000003, 
+          "duration": 0.06966, 
           "confidence": 1.0, 
           "value": {
             "label": "END", 
             "level": 0
           }, 
           "time": 209.74585000000002
-        }, 
-        {
-          "duration": 3.1782310000000003, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "ZZZZZ", 
-            "level": 0
-          }, 
-          "time": 209.95483000000002
         }, 
         {
           "duration": 0.37151900000000004, 
@@ -4425,34 +4329,25 @@
           "time": 200.73650800000001
         }, 
         {
-          "duration": 0.20898000000000003, 
+          "duration": 0.06966, 
           "confidence": 1.0, 
           "value": {
             "label": "end", 
             "level": 1
           }, 
           "time": 209.74585000000002
-        }, 
-        {
-          "duration": 3.1782310000000003, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "zzzzz", 
-            "level": 1
-          }, 
-          "time": 209.95483000000002
         }
       ]
     }
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "Mi Nino Curro", 
+    "title": "Duncan and Brady", 
     "identifiers": {
-      "musicbrainzid": "c94e58d9-9654-45ef-b448-68035911e1bd"
+      "internet_archive_url": "http://www.archive.org/download/markbilyeu2006-02-01.shnf/markbilyeu2006-02-01d1t09_vbr.mp3"
     }, 
-    "release": "Sus 50 mejores canciones (disc 3)", 
-    "duration": 213.1330612, 
-    "artist": "Paco de Lucia"
+    "release": "Live at The Record Bar on 2006-02-01", 
+    "duration": 209.8155102, 
+    "artist": "Mark Bilyeu"
   }
 }

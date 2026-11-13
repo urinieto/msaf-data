@@ -93,7 +93,7 @@
           "time": 219.84653100000003
         }, 
         {
-          "duration": 184.35192700000002, 
+          "duration": 2.0956010000000003, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 260.22603200000003
@@ -153,7 +153,7 @@
           "time": 153.34458
         }, 
         {
-          "duration": 184.35192700000002, 
+          "duration": 2.0956010000000003, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 260.22603200000003
@@ -339,16 +339,10 @@
           "time": 247.431837
         }, 
         {
-          "duration": 4.4582310000000005, 
+          "duration": 2.6296600000000003, 
           "confidence": 1.0, 
           "value": "end", 
           "time": 259.691973
-        }, 
-        {
-          "duration": 180.42775500000002, 
-          "confidence": 0.0, 
-          "value": "zzzzz", 
-          "time": 264.15020400000003
         }
       ]
     }, 
@@ -405,16 +399,10 @@
           "time": 180.929887
         }, 
         {
-          "duration": 4.4582310000000005, 
+          "duration": 2.6296600000000003, 
           "confidence": 1.0, 
           "value": "END", 
           "time": 259.691973
-        }, 
-        {
-          "duration": 180.42775500000002, 
-          "confidence": 0.0, 
-          "value": "ZZZZZ", 
-          "time": 264.15020400000003
         }
       ]
     }, 
@@ -603,16 +591,10 @@
           "time": 238.62857100000002
         }, 
         {
-          "duration": 2.383673, 
+          "duration": 2.4032660000000003, 
           "confidence": 1.0, 
           "value": "end", 
           "time": 259.918367
-        }, 
-        {
-          "duration": 182.27591900000002, 
-          "confidence": 0.0, 
-          "value": "zzzzz", 
-          "time": 262.30204000000003
         }
       ]
     }, 
@@ -681,7 +663,7 @@
           "time": 202.710204
         }, 
         {
-          "duration": 184.659592, 
+          "duration": 2.4032660000000003, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 259.918367
@@ -753,7 +735,7 @@
           "time": 202.44898
         }, 
         {
-          "duration": 184.79020400000002, 
+          "duration": 2.533877999, 
           "confidence": 1.0, 
           "value": "silence", 
           "time": 259.787755
@@ -801,7 +783,7 @@
           "time": 122.64489800000001
         }, 
         {
-          "duration": 184.79020300000002, 
+          "duration": 2.5338770000000004, 
           "confidence": 1.0, 
           "value": "SILENCE", 
           "time": 259.787756
@@ -879,7 +861,7 @@
           "time": 219.672381
         }, 
         {
-          "duration": 184.839546, 
+          "duration": 2.5832200000000003, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 259.73841300000004
@@ -927,7 +909,7 @@
           "time": 124.830476
         }, 
         {
-          "duration": 184.839546, 
+          "duration": 2.5832200000000003, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 259.73841300000004
@@ -1002,7 +984,7 @@
           "time": 153.34458
         }, 
         {
-          "duration": 184.35192700000002, 
+          "duration": 2.0956010000000003, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -1110,7 +1092,7 @@
           "time": 219.84653100000003
         }, 
         {
-          "duration": 184.35192700000002, 
+          "duration": 2.0956010000000003, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -1206,7 +1188,7 @@
           "time": 202.710204
         }, 
         {
-          "duration": 184.659592, 
+          "duration": 2.4032660000000003, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -1458,22 +1440,13 @@
           "time": 238.62857100000002
         }, 
         {
-          "duration": 2.383673, 
+          "duration": 2.4032660000000003, 
           "confidence": 1.0, 
           "value": {
             "label": "end", 
             "level": 1
           }, 
           "time": 259.918367
-        }, 
-        {
-          "duration": 182.27591900000002, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "zzzzz", 
-            "level": 1
-          }, 
-          "time": 262.30204000000003
         }
       ]
     }, 
@@ -1527,7 +1500,7 @@
           "time": 124.830476
         }, 
         {
-          "duration": 184.839546, 
+          "duration": 2.5832200000000003, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -1608,7 +1581,7 @@
           "time": 219.672381
         }, 
         {
-          "duration": 184.839546, 
+          "duration": 2.5832200000000003, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -1668,7 +1641,7 @@
           "time": 122.64489800000001
         }, 
         {
-          "duration": 184.79020300000002, 
+          "duration": 2.5338770000000004, 
           "confidence": 1.0, 
           "value": {
             "label": "SILENCE", 
@@ -1740,7 +1713,7 @@
           "time": 202.44898
         }, 
         {
-          "duration": 184.79020400000002, 
+          "duration": 2.533877999, 
           "confidence": 1.0, 
           "value": {
             "label": "silence", 
@@ -1818,22 +1791,13 @@
           "time": 180.929887
         }, 
         {
-          "duration": 4.4582310000000005, 
+          "duration": 2.6296600000000003, 
           "confidence": 1.0, 
           "value": {
             "label": "END", 
             "level": 0
           }, 
           "time": 259.691973
-        }, 
-        {
-          "duration": 180.42775500000002, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "ZZZZZ", 
-            "level": 0
-          }, 
-          "time": 264.15020400000003
         }, 
         {
           "duration": 2.4613150000000004, 
@@ -2070,32 +2034,25 @@
           "time": 247.431837
         }, 
         {
-          "duration": 4.4582310000000005, 
+          "duration": 2.6296600000000003, 
           "confidence": 1.0, 
           "value": {
             "label": "end", 
             "level": 1
           }, 
           "time": 259.691973
-        }, 
-        {
-          "duration": 180.42775500000002, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "zzzzz", 
-            "level": 1
-          }, 
-          "time": 264.15020400000003
         }
       ]
     }
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "Cowgirl", 
-    "identifiers": {}, 
-    "release": "Live at ABC on 2008-04-25", 
-    "duration": 444.5779592, 
-    "artist": "Cowgirl"
+    "title": "Mercy", 
+    "identifiers": {
+      "musicbrainzid": "64819d41-172b-4e93-a27f-39ac971ec4f9"
+    }, 
+    "release": "Solace", 
+    "duration": 262.3216327, 
+    "artist": "Sarah Mclachlan"
   }
 }

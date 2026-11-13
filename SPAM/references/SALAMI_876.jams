@@ -63,7 +63,7 @@
           "time": 147.37705200000002
         }, 
         {
-          "duration": 52.967619000000006, 
+          "duration": 0.200273, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 203.058503
@@ -159,7 +159,7 @@
           "time": 198.94857100000002
         }, 
         {
-          "duration": 52.967619000000006, 
+          "duration": 0.200273, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 203.058503
@@ -237,16 +237,10 @@
           "time": 180.186848
         }, 
         {
-          "duration": 0.325079, 
+          "duration": 0.409252, 
           "confidence": 1.0, 
           "value": "END", 
           "time": 202.849524
-        }, 
-        {
-          "duration": 52.851519, 
-          "confidence": 0.0, 
-          "value": "ZZZZZ", 
-          "time": 203.17460300000002
         }
       ]
     }, 
@@ -537,16 +531,10 @@
           "time": 198.623492
         }, 
         {
-          "duration": 0.325079, 
+          "duration": 0.409252, 
           "confidence": 1.0, 
           "value": "end", 
           "time": 202.849524
-        }, 
-        {
-          "duration": 52.851519, 
-          "confidence": 0.0, 
-          "value": "zzzzz", 
-          "time": 203.17460300000002
         }
       ]
     }, 
@@ -597,7 +585,7 @@
           "time": 144.66031700000002
         }, 
         {
-          "duration": 66.365532, 
+          "duration": 13.598185, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 189.66059
@@ -723,16 +711,10 @@
           "time": 181.23174600000002
         }, 
         {
-          "duration": 13.583673000000001, 
+          "duration": 13.598185, 
           "confidence": 1.0, 
           "value": "b", 
           "time": 189.66059
-        }, 
-        {
-          "duration": 52.781859000000004, 
-          "confidence": 0.0, 
-          "value": "zzzzz", 
-          "time": 203.24426300000002
         }
       ]
     }, 
@@ -783,16 +765,10 @@
           "time": 110.62857100000001
         }, 
         {
-          "duration": 58.416326000000005, 
+          "duration": 58.409795, 
           "confidence": 1.0, 
           "value": "B'", 
           "time": 144.84898
-        }, 
-        {
-          "duration": 52.760816000000005, 
-          "confidence": 0.0, 
-          "value": "ZZZZZ", 
-          "time": 203.265306
         }
       ]
     }, 
@@ -927,16 +903,10 @@
           "time": 189.38195000000002
         }, 
         {
-          "duration": 4.37551, 
+          "duration": 4.368979, 
           "confidence": 1.0, 
           "value": "d", 
           "time": 198.88979600000002
-        }, 
-        {
-          "duration": 52.760816000000005, 
-          "confidence": 0.0, 
-          "value": "zzzzz", 
-          "time": 203.265306
         }
       ]
     }, 
@@ -993,7 +963,7 @@
           "time": 111.98984100000001
         }, 
         {
-          "duration": 111.36580500000001, 
+          "duration": 58.598458, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 144.66031700000002
@@ -1053,16 +1023,10 @@
           "time": 111.98984100000001
         }, 
         {
-          "duration": 59.907483000000006, 
+          "duration": 58.598458, 
           "confidence": 1.0, 
           "value": "c'", 
           "time": 144.66031700000002
-        }, 
-        {
-          "duration": 51.458322, 
-          "confidence": 0.0, 
-          "value": "zzzzz", 
-          "time": 204.5678
         }
       ]
     }, 
@@ -1143,7 +1107,7 @@
           "time": 147.37705200000002
         }, 
         {
-          "duration": 52.967619000000006, 
+          "duration": 0.200273, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -1251,7 +1215,7 @@
           "time": 198.94857100000002
         }, 
         {
-          "duration": 52.967619000000006, 
+          "duration": 0.200273, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -1320,7 +1284,7 @@
           "time": 144.66031700000002
         }, 
         {
-          "duration": 66.365532, 
+          "duration": 13.598185, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -1473,22 +1437,13 @@
           "time": 181.23174600000002
         }, 
         {
-          "duration": 13.583673000000001, 
+          "duration": 13.598185, 
           "confidence": 1.0, 
           "value": {
             "label": "b", 
             "level": 1
           }, 
           "time": 189.66059
-        }, 
-        {
-          "duration": 52.781859000000004, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "zzzzz", 
-            "level": 1
-          }, 
-          "time": 203.24426300000002
         }
       ]
     }, 
@@ -1560,7 +1515,7 @@
           "time": 111.98984100000001
         }, 
         {
-          "duration": 111.36580500000001, 
+          "duration": 58.598458, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -1614,22 +1569,13 @@
           "time": 111.98984100000001
         }, 
         {
-          "duration": 59.907483000000006, 
+          "duration": 58.598458, 
           "confidence": 1.0, 
           "value": {
             "label": "c'", 
             "level": 1
           }, 
           "time": 144.66031700000002
-        }, 
-        {
-          "duration": 51.458322, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "zzzzz", 
-            "level": 1
-          }, 
-          "time": 204.5678
         }
       ]
     }, 
@@ -1692,22 +1638,13 @@
           "time": 110.62857100000001
         }, 
         {
-          "duration": 58.416326000000005, 
+          "duration": 58.409795, 
           "confidence": 1.0, 
           "value": {
             "label": "B'", 
             "level": 0
           }, 
           "time": 144.84898
-        }, 
-        {
-          "duration": 52.760816000000005, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "ZZZZZ", 
-            "level": 0
-          }, 
-          "time": 203.265306
         }, 
         {
           "duration": 0.179955, 
@@ -1872,22 +1809,13 @@
           "time": 189.38195000000002
         }, 
         {
-          "duration": 4.37551, 
+          "duration": 4.368979, 
           "confidence": 1.0, 
           "value": {
             "label": "d", 
             "level": 1
           }, 
           "time": 198.88979600000002
-        }, 
-        {
-          "duration": 52.760816000000005, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "zzzzz", 
-            "level": 1
-          }, 
-          "time": 203.265306
         }
       ]
     }, 
@@ -1986,22 +1914,13 @@
           "time": 180.186848
         }, 
         {
-          "duration": 0.325079, 
+          "duration": 0.409252, 
           "confidence": 1.0, 
           "value": {
             "label": "END", 
             "level": 0
           }, 
           "time": 202.849524
-        }, 
-        {
-          "duration": 52.851519, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "ZZZZZ", 
-            "level": 0
-          }, 
-          "time": 203.17460300000002
         }, 
         {
           "duration": 0.13932, 
@@ -2400,34 +2319,23 @@
           "time": 198.623492
         }, 
         {
-          "duration": 0.325079, 
+          "duration": 0.409252, 
           "confidence": 1.0, 
           "value": {
             "label": "end", 
             "level": 1
           }, 
           "time": 202.849524
-        }, 
-        {
-          "duration": 52.851519, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "zzzzz", 
-            "level": 1
-          }, 
-          "time": 203.17460300000002
         }
       ]
     }
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "Over the Rainbow", 
-    "identifiers": {
-      "musicbrainzid": "7d177a6b-b4c1-4627-a3b1-87eaf2be8971"
-    }, 
-    "release": "Roots Revisited", 
-    "duration": 256.0261224, 
-    "artist": "Maceo Parker"
+    "title": "Ramona", 
+    "identifiers": {}, 
+    "release": "", 
+    "duration": 203.2587755, 
+    "artist": ""
   }
 }
