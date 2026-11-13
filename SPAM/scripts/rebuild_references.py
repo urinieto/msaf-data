@@ -43,11 +43,11 @@ VERSION = "1.2"
 SPAM_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 ANNOTATORS = {
-    "Colin": {"name": "Colin Hua", "email": "colin.z.hua@gmail.com"},
-    "Eleni": {"name": "Eleni Vasilia Maltas", "email": "evm241@nyu.edu"},
-    "Evan": {"name": "Evan S. Johnson", "email": "esj254@nyu.edu"},
-    "John": {"name": "John Turner", "email": "johnturner@me.com"},
-    "Shuli": {"name": "Shuli Tang", "email": "luiseslt@gmail.com"},
+    "Colin": {"name": "Colin Hua", "email": ""},
+    "Eleni": {"name": "Eleni Vasilia Maltas", "email": ""},
+    "Evan": {"name": "Evan S. Johnson", "email": ""},
+    "John": {"name": "John Turner", "email": ""},
+    "Shuli": {"name": "Shuli Tang", "email": ""},
 }
 NAMESPACES = {"s": "segment_salami_lower", "l": "segment_salami_upper"}
 PAD_LABELS = {"segment_salami_upper": ("YYYYY", "ZZZZZ"),

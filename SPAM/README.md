@@ -51,6 +51,7 @@ Changelog
   from the original annotations with the corrected metadata. The other 18 tracks and the features
   were not affected.
   The `version` in the `annotation_metadata` of all JAMS files is now `1.2`.
+  Removed the annotators' email addresses from the JAMS files, scripts, and notebooks.
 * **v1.1 (2016-06):** Added the metadata, the upper/lower alignment, and the `multi_segment` annotations.
 
 Publications
