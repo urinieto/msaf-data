@@ -19,7 +19,7 @@
           "name": "Colin Hua", 
           "email": "colin.z.hua@gmail.com"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -85,7 +85,7 @@
           "name": "Colin Hua", 
           "email": "colin.z.hua@gmail.com"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -241,7 +241,7 @@
           "name": "Eleni Vasilia Maltas", 
           "email": "evm241@nyu.edu"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -367,7 +367,7 @@
           "name": "Eleni Vasilia Maltas", 
           "email": "evm241@nyu.edu"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -769,7 +769,7 @@
           "name": "John Turner", 
           "email": "johnturner@me.com"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -841,7 +841,7 @@
           "name": "John Turner", 
           "email": "johnturner@me.com"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1075,7 +1075,7 @@
           "name": "Evan S. Johnson", 
           "email": "esj254@nyu.edu"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1177,7 +1177,7 @@
           "name": "Evan S. Johnson", 
           "email": "esj254@nyu.edu"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1399,7 +1399,7 @@
           "name": "Shuli Tang", 
           "email": "luiseslt@gmail.com"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1471,7 +1471,7 @@
           "name": "Shuli Tang", 
           "email": "luiseslt@gmail.com"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1549,7 +1549,7 @@
           "name": "Colin Hua", 
           "email": "colin.z.hua@gmail.com"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1834,7 +1834,7 @@
           "name": "Eleni Vasilia Maltas", 
           "email": "evm241@nyu.edu"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -2578,7 +2578,7 @@
           "name": "Evan S. Johnson", 
           "email": "esj254@nyu.edu"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -3016,7 +3016,7 @@
           "name": "John Turner", 
           "email": "johnturner@me.com"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -3427,7 +3427,7 @@
           "name": "Shuli Tang", 
           "email": "luiseslt@gmail.com"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 

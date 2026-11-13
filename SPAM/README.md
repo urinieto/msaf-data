@@ -42,7 +42,7 @@ See [`features/README.md`](features/README.md) for the full terms.
 Changelog
 ---------
 
-* **2026-11:** Fixed the metadata of the 32 SALAMI tracks, which had been shuffled since June 2016 (the
+* **v1.2 (2026-11):** Fixed the metadata of the 32 SALAMI tracks, which had been shuffled since June 2016 (the
   numerically sorted rows of `metadata.tsv` had received the metadata of the alphabetically sorted tracks).
   This affected the `artist`, `title`, `release`, `duration`, `musicbrainzid`, and URL fields of
   `metadata.tsv` and of the JAMS `file_metadata`. Because the annotations are padded or trimmed to the track
@@ -50,6 +50,8 @@ Changelog
   prevented many `multi_segment` annotations from being created. The SALAMI JAMS files have been rebuilt
   from the original annotations with the corrected metadata. The other 18 tracks and the features
   were not affected.
+  The `version` in the `annotation_metadata` of all JAMS files is now `1.2`.
+* **v1.1 (2016-06):** Added the metadata, the upper/lower alignment, and the `multi_segment` annotations.
 
 Publications
 ------------

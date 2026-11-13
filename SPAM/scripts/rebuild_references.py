@@ -36,6 +36,10 @@ import xml.etree.ElementTree as ET
 __author__ = "Oriol Nieto"
 __license__ = "MIT"
 
+# Version of the SPAM annotations (1.1: original release, 1.2: fixed the
+# shuffled SALAMI metadata)
+VERSION = "1.2"
+
 SPAM_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 ANNOTATORS = {
@@ -187,7 +191,7 @@ def annotation_metadata(annotator):
         ("annotator", collections.OrderedDict([
             ("name", ANNOTATORS[annotator]["name"]),
             ("email", ANNOTATORS[annotator]["email"])])),
-        ("version", "1.1"),
+        ("version", VERSION),
         ("corpus", "SPAM dataset"),
         ("annotation_rules", "SALAMI"),
         ("validation", ""),
