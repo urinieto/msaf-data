@@ -19,7 +19,7 @@
           "name": "Colin Hua", 
           "email": "colin.z.hua@gmail.com"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -147,7 +147,7 @@
           "time": 226.858957
         }, 
         {
-          "duration": 112.86059, 
+          "duration": 4.243447000000001, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 235.82185900000002
@@ -169,7 +169,7 @@
           "name": "Colin Hua", 
           "email": "colin.z.hua@gmail.com"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -237,7 +237,7 @@
           "time": 190.24108800000002
         }, 
         {
-          "duration": 112.86059, 
+          "duration": 4.243447000000001, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 235.82185900000002
@@ -259,7 +259,7 @@
           "name": "Eleni Vasilia Maltas", 
           "email": "evm241@nyu.edu"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -417,7 +417,7 @@
           "time": 236.19337900000002
         }, 
         {
-          "duration": 111.258411999, 
+          "duration": 2.6412690000000003, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 237.42403700000003
@@ -439,7 +439,7 @@
           "name": "Eleni Vasilia Maltas", 
           "email": "evm241@nyu.edu"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -519,7 +519,7 @@
           "time": 236.19337900000002
         }, 
         {
-          "duration": 111.258411999, 
+          "duration": 2.6412690000000003, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 237.42403700000003
@@ -541,7 +541,7 @@
           "name": "John Turner", 
           "email": "johnturner@me.com"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -711,16 +711,10 @@
           "time": 217.733515
         }, 
         {
-          "duration": 3.3436730000000003, 
+          "duration": 3.4307480000000004, 
           "confidence": 1.0, 
           "value": "end", 
           "time": 236.63455800000003
-        }, 
-        {
-          "duration": 108.70421800000001, 
-          "confidence": 0.0, 
-          "value": "zzzzz", 
-          "time": 239.97823100000002
         }
       ]
     }, 
@@ -739,7 +733,7 @@
           "name": "John Turner", 
           "email": "johnturner@me.com"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -783,16 +777,10 @@
           "time": 190.217868
         }, 
         {
-          "duration": 3.3436730000000003, 
+          "duration": 3.4307480000000004, 
           "confidence": 1.0, 
           "value": "END", 
           "time": 236.63455800000003
-        }, 
-        {
-          "duration": 108.70421800000001, 
-          "confidence": 0.0, 
-          "value": "ZZZZZ", 
-          "time": 239.97823100000002
         }
       ]
     }, 
@@ -811,7 +799,7 @@
           "name": "Evan S. Johnson", 
           "email": "esj254@nyu.edu"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -987,7 +975,7 @@
           "time": 217.89605400000002
         }, 
         {
-          "duration": 111.947755, 
+          "duration": 3.3306120000000004, 
           "confidence": 1.0, 
           "value": "silence", 
           "time": 236.73469400000002
@@ -1009,7 +997,7 @@
           "name": "Evan S. Johnson", 
           "email": "esj254@nyu.edu"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1077,7 +1065,7 @@
           "time": 190.403628
         }, 
         {
-          "duration": 111.947755, 
+          "duration": 3.3306120000000004, 
           "confidence": 1.0, 
           "value": "SILENCE", 
           "time": 236.73469400000002
@@ -1099,7 +1087,7 @@
           "name": "Shuli Tang", 
           "email": "luiseslt@gmail.com"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1173,7 +1161,7 @@
           "time": 223.492063
         }, 
         {
-          "duration": 112.100137, 
+          "duration": 3.482994, 
           "confidence": 0.0, 
           "value": "zzzzz", 
           "time": 236.582312
@@ -1195,7 +1183,7 @@
           "name": "Shuli Tang", 
           "email": "luiseslt@gmail.com"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1245,7 +1233,7 @@
           "time": 190.258502999
         }, 
         {
-          "duration": 112.100137, 
+          "duration": 3.482994, 
           "confidence": 0.0, 
           "value": "ZZZZZ", 
           "time": 236.582312
@@ -1267,7 +1255,7 @@
           "name": "Colin Hua", 
           "email": "colin.z.hua@gmail.com"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1365,7 +1353,7 @@
           "time": 190.24108800000002
         }, 
         {
-          "duration": 112.86059, 
+          "duration": 4.243447000000001, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -1554,7 +1542,7 @@
           "time": 226.858957
         }, 
         {
-          "duration": 112.86059, 
+          "duration": 4.243447000000001, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -1579,7 +1567,7 @@
           "name": "John Turner", 
           "email": "johnturner@me.com"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -1641,22 +1629,13 @@
           "time": 190.217868
         }, 
         {
-          "duration": 3.3436730000000003, 
+          "duration": 3.4307480000000004, 
           "confidence": 1.0, 
           "value": {
             "label": "END", 
             "level": 0
           }, 
           "time": 236.63455800000003
-        }, 
-        {
-          "duration": 108.70421800000001, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "ZZZZZ", 
-            "level": 0
-          }, 
-          "time": 239.97823100000002
         }, 
         {
           "duration": 9.961361, 
@@ -1902,22 +1881,13 @@
           "time": 217.733515
         }, 
         {
-          "duration": 3.3436730000000003, 
+          "duration": 3.4307480000000004, 
           "confidence": 1.0, 
           "value": {
             "label": "end", 
             "level": 1
           }, 
           "time": 236.63455800000003
-        }, 
-        {
-          "duration": 108.70421800000001, 
-          "confidence": 0.0, 
-          "value": {
-            "label": "zzzzz", 
-            "level": 1
-          }, 
-          "time": 239.97823100000002
         }
       ]
     }, 
@@ -1936,7 +1906,7 @@
           "name": "Shuli Tang", 
           "email": "luiseslt@gmail.com"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -2007,7 +1977,7 @@
           "time": 190.258502999
         }, 
         {
-          "duration": 112.100137, 
+          "duration": 3.482994, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -2115,7 +2085,7 @@
           "time": 223.492063
         }, 
         {
-          "duration": 112.100137, 
+          "duration": 3.482994, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -2140,7 +2110,7 @@
           "name": "Evan S. Johnson", 
           "email": "esj254@nyu.edu"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -2238,7 +2208,7 @@
           "time": 190.403628
         }, 
         {
-          "duration": 111.947755, 
+          "duration": 3.3306120000000004, 
           "confidence": 1.0, 
           "value": {
             "label": "SILENCE", 
@@ -2499,7 +2469,7 @@
           "time": 217.89605400000002
         }, 
         {
-          "duration": 111.947755, 
+          "duration": 3.3306120000000004, 
           "confidence": 1.0, 
           "value": {
             "label": "silence", 
@@ -2524,7 +2494,7 @@
           "name": "Eleni Vasilia Maltas", 
           "email": "evm241@nyu.edu"
         }, 
-        "version": "1.1", 
+        "version": "1.2", 
         "corpus": "SPAM dataset", 
         "annotation_rules": "SALAMI", 
         "validation": "", 
@@ -2640,7 +2610,7 @@
           "time": 236.19337900000002
         }, 
         {
-          "duration": 111.258411999, 
+          "duration": 2.6412690000000003, 
           "confidence": 0.0, 
           "value": {
             "label": "ZZZZZ", 
@@ -2874,7 +2844,7 @@
           "time": 236.19337900000002
         }, 
         {
-          "duration": 111.258411999, 
+          "duration": 2.6412690000000003, 
           "confidence": 0.0, 
           "value": {
             "label": "zzzzz", 
@@ -2887,12 +2857,12 @@
   ], 
   "file_metadata": {
     "jams_version": "0.2.1", 
-    "title": "Timbuktu", 
+    "title": "Drifting Too Far From The Shore", 
     "identifiers": {
-      "musicbrainzid": "c21b1db6-5c03-490d-b23c-ca9ffacf2491"
+      "musicbrainzid": "f6ef2d08-1128-42fc-8a58-409afc0fa8db"
     }, 
-    "release": "Timbuktu", 
-    "duration": 348.682449, 
-    "artist": "Issa Bagayogo"
+    "release": "The Stained Glass Hour, Bluegrass and Old Timey Gospel Music", 
+    "duration": 240.0653061, 
+    "artist": "Boone Creek"
   }
 }
